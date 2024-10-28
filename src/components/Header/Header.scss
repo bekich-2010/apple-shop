@@ -1,17 +1,11 @@
 .header{
-  margin-bottom: 22px;
+  margin-bottom: 30px;
   &__title{
     color: rgb(16, 16, 16);
     font-family: Montserrat, sans-serif;
     font-size: 25px;
   }
-  &__choise{
-    color: rgb(16, 16, 16);
-    font-family: Montserrat, sans-serif;
-    font-size: 15px;
-    text-decoration: none;
-    cursor: pointer;
-  }
+
   &__list{
     transition: .7s;
     background: rgba(235, 235, 235, .6);
@@ -34,9 +28,31 @@
     column-gap: 35px;
     flex-wrap: wrap;
     width: 400px;
+    &-choise{
+      color: rgb(16, 16, 16);
+      font-family: Montserrat, sans-serif;
+      font-size: 15px;
+      text-decoration: none;
+      cursor: pointer;
+    }
     &-div{
       display: flex;
       justify-content: space-between;
     }
+  }
+  &__cartfav{
+    display: flex;
+    column-gap: 10px;
+  }
+  &__cart{
+    color: rgb(101, 101, 101);
+    width: 23.2px;
+    height: 23.2px;
+  }
+
+  &__fav{
+    color: rgb(101, 101, 101);
+    width: 23.2px;
+    height: 23.2px;
   }
 }
