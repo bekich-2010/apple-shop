@@ -5,7 +5,10 @@ import { TiArrowSortedDown, TiArrowSortedUp } from "react-icons/ti";
 const Header = () => {
 
     const [active, setActive] = useState(false)
-
+    const [phone, setPhone] = useState(false)
+    const showPhone = () => {
+        setPhone(!phone)
+    }
     const Arrows = () => {
         setActive(!active)
     }
@@ -19,9 +22,16 @@ const Header = () => {
                             Выбрать модель телефона
                             <span className="header__nav-sapn">
                                 {
-                                    Arrows
+                                    active ? <TiArrowSortedDown/> : <TiArrowSortedUp/>
                                 }
                             </span>
+                            <ul onClick={() => setPhone()} className="header__list">
+                                <li className="header__link">iphone12</li>
+                                <li className="header__link">iphone12</li>
+                                <li className="header__link">iphone12</li>
+                                <li className="header__link">iphone12</li>
+                                <li className="header__link">iphone12</li>
+                            </ul>
                         </p>
                     </nav>
                 </div>
