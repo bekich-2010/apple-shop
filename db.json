@@ -1,0 +1,399 @@
+{
+  "products": [
+    {
+      "title": "iPhone 12",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Красный",
+        "Зеленый",
+        "Синий",
+        "Фиолетовый"
+      ],
+      "sizes": [
+        "64 ГБ",
+        "128 ГБ"
+      ],
+      "description": "Элегантный и мощный смартфон с 6.1-дюймовым дисплеем и двойной камерой.",
+      "price": {
+        "64 ГБ": "55000",
+        "128 ГБ": "60000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A14 Bionic",
+        "battery": "2815 мАч",
+        "os": "iOS"
+      },
+      "img": "https://call-store.ru/upload/iblock/6c9/czhv9jehfq5epjl178e3on8b9xsp28ra.jpeg",
+      "id": 1
+    },
+    {
+      "title": "iPhone 12 Pro",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Золотой",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ"
+      ],
+      "description": "Премиум-смартфон с усовершенствованной камерой и дисплеем.",
+      "price": {
+        "128 ГБ": "90000",
+        "256 ГБ": "100000",
+        "512 ГБ": "110000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП + 12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A14 Bionic",
+        "battery": "2815 мАч",
+        "os": "iOS"
+      },
+      "img": "https://www.ixbt.com/img/x780x600/r30/00/02/34/83/GEOiPhone12Procolorlineup5up.png",
+      "id": 2
+    },
+    {
+      "title": "iPhone 12 Mini",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Красный",
+        "Зеленый",
+        "Синий",
+        "Фиолетовый"
+      ],
+      "sizes": [
+        "64 ГБ",
+        "128 ГБ"
+      ],
+      "description": "Компактный и мощный смартфон с 5.4-дюймовым дисплеем.",
+      "price": {
+        "64 ГБ": "50000",
+        "128 ГБ": "55000"
+      },
+      "features": {
+        "display": "5.4 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A14 Bionic",
+        "battery": "2227 мАч",
+        "os": "iOS"
+      },
+      "img": "https://images.techinsider.ru/upload/img_cache/3f7/3f76697b8046b2340d231177b40da818_cropped_510x345.webp",
+      "id": 3
+    },
+    {
+      "title": "iPhone 13",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Красный",
+        "Зеленый",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ"
+      ],
+      "description": "Улучшенная производительность и камера для создания великолепных фото.",
+      "price": {
+        "128 ГБ": "65000",
+        "256 ГБ": "70000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A15 Bionic",
+        "battery": "3240 мАч",
+        "os": "iOS"
+      },
+      "img": "https://navkusicvet.ru/upload/iblock/647/0urbfm71yp1l2eed7pcgzkjm6y5n668e.png",
+      "id": 4
+    },
+    {
+      "title": "iPhone 13 Pro",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Золотой",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ",
+        "1 ТБ"
+      ],
+      "description": "Премиум-версия с выдающимися возможностями камеры.",
+      "price": {
+        "128 ГБ": "100000",
+        "256 ГБ": "110000",
+        "512 ГБ": "130000",
+        "1 ТБ": "150000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП + 12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A15 Bionic",
+        "battery": "3095 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXipZ1tsUiEYwtu04Fhm7gxKLcndPmZzUsYA&s",
+      "id": 5
+    },
+    {
+      "title": "iPhone 13 Mini",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Красный",
+        "Зеленый",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ"
+      ],
+      "description": "Компактная версия с отличными характеристиками.",
+      "price": {
+        "128 ГБ": "60000",
+        "256 ГБ": "65000"
+      },
+      "features": {
+        "display": "5.4 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A15 Bionic",
+        "battery": "2438 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ko-QjLZqpJ6KW_DZ4elKKcvnOi4ohy7xdg&s",
+      "id": 6
+    },
+    {
+      "title": "iPhone 14",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Красный",
+        "Синий",
+        "Фиолетовый"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ"
+      ],
+      "description": "Смартфон с улучшенными камерами и дисплеем.",
+      "price": {
+        "128 ГБ": "75000",
+        "256 ГБ": "80000",
+        "512 ГБ": "95000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A16 Bionic",
+        "battery": "3279 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bV_BZMU2qiBysEwkclbUj933lNWrlyS6Fw&s",
+      "id": 7
+    },
+    {
+      "title": "iPhone 14 Pro",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Золотой",
+        "Фиолетовый"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ",
+        "1 ТБ"
+      ],
+      "description": "Премиум-версия с новыми функциями камеры и производительности.",
+      "price": {
+        "128 ГБ": "110000",
+        "256 ГБ": "120000",
+        "512 ГБ": "140000",
+        "1 ТБ": "160000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "48 МП + 12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A16 Bionic",
+        "battery": "3200 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNo_FfT09zP0n6GMl29CuA8k1GbhlMZs56w&s",
+      "id": 8
+    },
+    {
+      "title": "iPhone 15",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Розовый",
+        "Желтый",
+        "Зеленый"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ"
+      ],
+      "description": "Современные технологии в вашем смартфоне.",
+      "price": {
+        "128 ГБ": "80000",
+        "256 ГБ": "85000",
+        "512 ГБ": "100000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "48 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A17 Pro",
+        "battery": "3350 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN5KJwFViYINvCm9LJInPb8NjgMFE_cgt2g&s",
+      "id": 9
+    },
+    {
+      "title": "iPhone 15 Pro",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Бежевый",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ",
+        "1 ТБ"
+      ],
+      "description": "Новый уровень производительности и возможностей.",
+      "price": {
+        "128 ГБ": "120000",
+        "256 ГБ": "130000",
+        "512 ГБ": "150000",
+        "1 ТБ": "170000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "48 МП + 12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A17 Pro",
+        "battery": "3200 мАч",
+        "os": "iOS"
+      },
+      "img": "https://best-magazin.com/image/catalog/123/apr2024/68_0.jpg",
+      "id": 10
+    },
+    {
+      "title": "iPhone 16",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Розовый",
+        "Желтый",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ"
+      ],
+      "description": "Идеальный баланс дизайна и технологий.",
+      "price": {
+        "128 ГБ": "90000",
+        "256 ГБ": "95000",
+        "512 ГБ": "110000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "48 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A18",
+        "battery": "3500 мАч",
+        "os": "iOS"
+      },
+      "img": "https://img01.rl0.ru/afisha/e-x360i/daily.afisha.ru/uploads/images/c/81/c819534833069a96be899733882f6287.jpg",
+      "id": 11
+    },
+    {
+      "title": "iPhone 16 Pro",
+      "colors": [
+        "Черный",
+        "Белый",
+        "Золотой",
+        "Синий"
+      ],
+      "sizes": [
+        "128 ГБ",
+        "256 ГБ",
+        "512 ГБ",
+        "1 ТБ"
+      ],
+      "description": "Самый мощный iPhone на данный момент.",
+      "price": {
+        "128 ГБ": "130000",
+        "256 ГБ": "140000",
+        "512 ГБ": "160000",
+        "1 ТБ": "180000"
+      },
+      "features": {
+        "display": "6.1 дюйма Super Retina XDR",
+        "camera": {
+          "main": "48 МП + 12 МП + 12 МП",
+          "front": "12 МП"
+        },
+        "processor": "A18",
+        "battery": "3200 мАч",
+        "os": "iOS"
+      },
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqq6senxzaYEkMVqOr7fnorVMkfR0ybDzEcg&s",
+      "id": 12
+    }
+  ]
+}
+
+
