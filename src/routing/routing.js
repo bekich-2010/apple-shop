@@ -1,10 +1,10 @@
 import React from 'react';
 import {createBrowserRouter} from "react-router-dom";
 import Root from "../components/Root/Root";
-import Home from "../pages/Home/Home";
 import Cart from "../pages/Cart/Cart";
 import Favorites from "../pages/Favorites/Favorites";
 import OneProduct from "../pages/OneProduct/OneProduct";
+import Main from "../pages/Main/Main"
 
 const routing =createBrowserRouter(
     [
@@ -14,7 +14,7 @@ const routing =createBrowserRouter(
             children: [
                 {
                     path: "",
-                    element: <Home/>
+                    element: <Main/>
                 },
                 {
                     path: "Cart",
@@ -28,6 +28,7 @@ const routing =createBrowserRouter(
                     path: 'product:id',
                     element: <OneProduct/>
                 }
+
             ]
         }
     ]
