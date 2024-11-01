@@ -4,7 +4,7 @@ import Root from "../components/Root/Root";
 import Cart from "../pages/Cart/Cart";
 import Favorites from "../pages/Favorites/Favorites";
 import OneProduct from "../pages/OneProduct/OneProduct";
-import Main from "../pages/Main/Main"
+import Main from "../pages/Main/Main";
 
 const routing =createBrowserRouter(
     [

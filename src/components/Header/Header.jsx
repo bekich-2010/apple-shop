@@ -2,10 +2,10 @@ import React, {useState} from 'react';
 import './Header.scss'
 import { TiArrowSortedDown, TiArrowSortedUp } from "react-icons/ti";
 import { IoCartOutline } from "react-icons/io5";
-import { MdOutlineFavoriteBorder } from "react-icons/md";
+import { MdFavoriteBorder,MdFavorite} from  "react-icons/md";
+import {Link} from "react-router-dom";
 
 const Header = () => {
-
     const [active, setActive] = useState(false)
     const [phone, setPhone] = useState(false)
     const showPhone = () => {
@@ -20,7 +20,7 @@ const Header = () => {
                 <div className="header__nav-div">
                     <nav className="header__nav">
                         <h2 className="header__title">QPICK</h2>
-                        <p onClick={() => showPhone()} className="header__nav-choise">
+                        <p onClick={() => showPhone(Arrows)} className="header__nav-choise">
                             Выбрать модель телефона
                             <span className="header__nav-sapn">
                                 {
@@ -38,7 +38,11 @@ const Header = () => {
                     </nav>
                     <div className="header__cartfav">
                         <IoCartOutline className="header__cart"/>
-                        <MdOutlineFavoriteBorder className="header__fav"/>
+                        <span className='header__icon-favorite'>
+                            <Link to='/favorites'>
+                                <MdFavoriteBorder color={'black'}/>
+                            </Link>
+                        </span>
                     </div>
                 </div>
             </div>
