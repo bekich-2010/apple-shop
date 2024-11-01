@@ -20,11 +20,11 @@ const Header = () => {
                 <div className="header__nav-div">
                     <nav className="header__nav">
                         <h2 className="header__title">QPICK</h2>
-                        <p onClick={() => showPhone(Arrows)} className="header__nav-choise">
+                        <p onClick={() => showPhone(Arrows())} className="header__nav-choise">
                             Выбрать модель телефона
                             <span className="header__nav-sapn">
                                 {
-                                    active ? <TiArrowSortedDown/> : <TiArrowSortedUp/>
+                                    active ? <TiArrowSortedUp/> :  <TiArrowSortedDown/>
                                 }
                             </span>
                             <ul style={phone ? {display: 'inline'} : {display: 'none'}} className="header__list">

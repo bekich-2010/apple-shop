@@ -5,6 +5,9 @@ import Cart from "../pages/Cart/Cart";
 import Favorites from "../pages/Favorites/Favorites";
 import OneProduct from "../pages/OneProduct/OneProduct";
 import Main from "../pages/Main/Main";
+import GlassCases from "../pages/Cases/GlassCases/GlassCases";
+import SiliconCases from "../pages/Cases/SiliconCases/SiliconCases";
+import LeatherCases from "../pages/Cases/LeatherCases/LeatherCases";
 
 const routing =createBrowserRouter(
     [
@@ -27,8 +30,19 @@ const routing =createBrowserRouter(
                 {
                     path: 'product:id',
                     element: <OneProduct/>
+                },
+                {
+                    path: "glass-cases",
+                    element: <GlassCases/>
+                },
+                {
+                    path: "silicon-cases",
+                    element: <SiliconCases/>
+                },
+                {
+                    path: "leather-cases",
+                    element: <LeatherCases/>
                 }
-
             ]
         }
     ]

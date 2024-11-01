@@ -1,0 +1,42 @@
+@import '../../sass/style';
+
+
+.cases{
+  &__row{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    @media screen and (min-width: 1065.98px){
+      justify-content: space-between;
+    }
+  }
+  &__img{
+    width: 151px;
+    height: 292px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__title{
+    color: rgb(131, 131, 131);
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  &__subtitle{
+    color: rgb(28, 28, 39);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+    justify-self: center;
+  }
+  &__link{
+    width: 350px;
+    height: 407.65px;
+    background: white;
+    display: grid;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  }
+}

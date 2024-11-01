@@ -1,18 +1,17 @@
 import React from 'react';
 import { MdFavoriteBorder,MdFavorite} from  "react-icons/md";
-import {CustomContext} from "../../store/store";
 
 const Card = ({item}) => {
-    const [favorites, changeFavorites] = useContext(CustomContext)
+
     return (
         <div className='card'>
-            <span onClick={()=>changeFavorites(item.id)} className='card__favorite'>
-                {
-                    favorites.includes(item.id)?
-                        <MdFavorite color={'red'}/>
-                        : <MdFavoriteBorder/>
-                }
-            </span>
+            {/*<span onClick={()=>changeFavorites(item.id)} className='card__favorite'>*/}
+            {/*    {*/}
+            {/*        favorites.includes(item.id)?*/}
+            {/*            <MdFavorite color={'red'}/>*/}
+            {/*            : <MdFavoriteBorder/>*/}
+            {/*    }*/}
+            {/*</span>*/}
             <img className='card__img' src={item.img} alt=""/>
             <div className='card__row'>
                 <h2 className='card__title'>{item.title}</h2>
