@@ -1371,8 +1371,122 @@
         ]
       }
     }
-  ]
+  ],
+  "wired_headphones": [
+    {
+      "earphones": [
+        {
+          "name": "Apple EarPods",
+          "colors": ["Белый"],
+          "length": "1.2 м",
+          "compatible_with": [
+            "iPhone 7",
+            "iPhone 8",
+            "iPhone X",
+            "iPhone 11",
+            "iPhone 12",
+            "iPhone 13",
+            "iPhone 14"
+          ],
+          "img": "https://idestiny.in/wp-content/uploads/2024/10/Clean-Living-EarPods-with-3-SDL934922275-1-d49eb-600x702.jpeg"
+        },
+        {
+          "name": "Apple EarPods с Lightning",
+          "colors": ["Белый"],
+          "length": "1.2 м",
+          "compatible_with": [
+            "iPhone 7",
+            "iPhone 8",
+            "iPhone X",
+            "iPhone SE (2-го поколения)",
+            "iPhone 11",
+            "iPhone 12",
+            "iPhone 13",
+            "iPhone 14"
+          ],
+          "img": "https://touch.com.ua/upload/resize_cache/webp/resize_cache/iblock/187/500_500_1/187cafa90a4a60e130edac49bfde4fe6.webp"
+        },
+        {
+          "name": "Beats urBeats3",
+          "colors": ["Черный", "Серый", "Бежевый"],
+          "length": "1.2 м",
+          "compatible_with": [
+            "iPhone 5 и новее"
+          ],
+          "img": "https://tshop.r10s.com/872/ec5/282e/fe80/a046/b968/33ee/1105e985260242ac110006.jpg"
+        },
+        {
+          "name": "Beats Flex",
+          "colors": ["Черный", "Желтый", "Синий", "Белый"],
+          "length": "1.2 м",
+          "compatible_with": [
+            "iPhone 7 и новее"
+          ],
+          "img": "https://www.iguides.ru/upload/medialibrary/dca/dca80f64da309786df49b5bfe440b4fd.jpg"
+        }
+      ]
+    }
+  ],
+  "wireless_headphones": [
+    {
+      "wireless_earphones": [
+        {
+          "name": "AirPods",
+          "colors": ["Белый"],
+          "battery_life": "5 часов",
+          "compatible_with": [
+            "iPhone 5 и новее",
+            "iPad (4-го поколения) и новее",
+            "iPod touch (6-го поколения) и новее"
+          ],
+          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1081_0.jpg"
+        },
+        {
+          "name": "AirPods Pro",
+          "colors": ["Белый"],
+          "battery_life": "4.5 часа",
+          "compatible_with": [
+            "iPhone 6s и новее",
+            "iPad (5-го поколения) и новее",
+            "iPod touch (7-го поколения)"
+          ],
+          "img": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Naushniki/AirPods%20Pro%20with%20Wireless%20Charging%20Case/3-500x400.jpg"
+        },
+        {
+          "name": "AirPods Max",
+          "colors": ["Серебристый", "Темно-синий", "Зеленый", "Черный", "Красный"],
+          "battery_life": "20 часов",
+          "compatible_with": [
+            "iPhone 6s и новее",
+            "iPad (5-го поколения) и новее",
+            "Mac с Bluetooth"
+          ],
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9LR6gE0YTTiiWsYQeUwhivqdwk8XO4TsGw&s"
+        },
+        {
+          "name": "Beats Studio Buds",
+          "colors": ["Черный", "Белый", "Красный", "Темно-синий", "Серый", "Розовый"],
+          "battery_life": "8 часов",
+          "compatible_with": [
+            "iPhone 7 и новее",
+            "iPad (5-го поколения) и новее"
+          ],
+          "img": "https://i.ebayimg.com/images/g/zfsAAOSwPcxluTAT/s-l1200.png"
+        },
+        {
+          "name": "Beats Fit Pro",
+          "colors": ["Желтый", "Темно-синий", "Розовый"],
+          "battery_life": "6 часов",
+          "compatible_with": [
+            "iPhone 7 и новее",
+            "iPad (5-го поколения) и новее"
+          ],
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuPaEBDO27Pzids2GeV42i6zcsW65qhvyaA&s"
+        }
+      ]
+    }
 
+  ]
 }
 
 
