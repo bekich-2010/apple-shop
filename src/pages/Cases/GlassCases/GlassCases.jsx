@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import axios from "axios";
+import {logDOM} from "@testing-library/react";
 
 const GlassCases = () => {
     const [cases, setCases] = useState([])
@@ -13,8 +14,10 @@ const GlassCases = () => {
         <div className="glasscases">
             <div className="glasscases__row">
                 {
-                    cases.map((item) => (
-                        <p>{item.color}</p>
+                    Array.isArray(cases) && cases.map(item => (
+                        <div className="glasscases__item" key={item.id}>
+                            <p>{item.description}</p>
+                        </div>
                     ))
                 }
             </div>

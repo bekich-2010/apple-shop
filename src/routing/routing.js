@@ -8,6 +8,8 @@ import Main from "../pages/Main/Main";
 import GlassCases from "../pages/Cases/GlassCases/GlassCases";
 import SiliconCases from "../pages/Cases/SiliconCases/SiliconCases";
 import LeatherCases from "../pages/Cases/LeatherCases/LeatherCases";
+import Terms from "../pages/Terms/Terms";
+import Contacts from "../pages/Contacts/Contacts";
 
 const routing =createBrowserRouter(
     [
@@ -42,6 +44,14 @@ const routing =createBrowserRouter(
                 {
                     path: "leather-cases",
                     element: <LeatherCases/>
+                },
+                {
+                    path: "terms-of-services",
+                    element: <Terms/>
+                },
+                {
+                    path: "contacts",
+                    element: <Contacts/>
                 }
             ]
         }

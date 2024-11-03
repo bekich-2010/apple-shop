@@ -1,0 +1,92 @@
+.contacts{
+  padding-top: 30px;
+  &__title{
+    color: rgb(28, 28, 39);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+  }
+  &__subtitle{
+    color: rgb(0, 0, 0);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+  }
+  &__floor{
+    color: rgb(131, 131, 131);
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+  }
+  &__location{
+    display: flex;
+    column-gap: 5px;
+  }
+  &__map{
+    display: grid;
+    width: 760px;
+    height: 524px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    margin-bottom: 67px;
+  }
+  &__sides{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  &__vector{
+    width: 20.9px;
+    height: 22px;
+  }
+  &__wats{
+    width: 39.41px;
+    height: 39.41px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__vk{
+    width: 53.96px;
+    height: 36.38px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__inst{
+    width: 39.41px;
+    height: 39.41px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__tel{
+    width: 48.5px;
+    height: 48.5px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__card{
+    display: grid;
+    width: 97px;
+    height: 97px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(255, 255, 255);
+    margin-bottom: 14px;
+  }
+  &__phone{
+    display: flex;
+  }
+  &__number{
+    color: rgb(0, 0, 0);
+    font-family: Montserrat, sans-serif;
+    font-size: 25px;
+  }
+  &__phone-img{
+    width: 30px;
+    height: 30px;
+    background: rgb(234, 234, 234);
+  }
+  &__img{
+    width: 722.52px;
+    height: 424px;
+    align-self: start;
+    justify-self: center;
+  }
+}

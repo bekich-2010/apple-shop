@@ -8,17 +8,18 @@ $footer-padding: 20px;
 $footer-border-radius: 12px;
 
 .footer {
-  background-color: $footer-bg-color;
-  padding: $footer-padding;
-  border-top-left-radius: $footer-border-radius;
-  border-top-right-radius: $footer-border-radius;
   .footer-content {
+    background: rgb(255, 255, 255);
+    padding: $footer-padding;
+    border-top-left-radius: $footer-border-radius;
+    border-top-right-radius: $footer-border-radius;
     display: flex;
     align-items: center;
     justify-content: space-between;
     font-family: $font-family;
     font-size: $font-size;
     color: $text-color;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
     .footer-logo {
       font-weight: bold;
       font-size: 20px;
