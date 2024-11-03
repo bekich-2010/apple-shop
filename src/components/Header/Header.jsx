@@ -37,12 +37,13 @@ const Header = () => {
                         </p>
                     </nav>
                     <div className="header__cartfav">
-                        <IoCartOutline className="header__cart"/>
-                        <span className='header__icon-favorite'>
-                            <Link to='/favorites'>
-                                <MdFavoriteBorder color={'black'}/>
-                            </Link>
-                        </span>
+                        <Link to="/cart">
+                            <IoCartOutline className="header__cart"/>
+                        </Link>
+                        <Link to='/favorites'>
+                            <MdFavoriteBorder className="header__fav"/>
+                        </Link>
+
                     </div>
                 </div>
             </div>

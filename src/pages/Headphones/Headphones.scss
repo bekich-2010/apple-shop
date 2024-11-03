@@ -1,0 +1,60 @@
+.headphones{
+  &__title{
+    color: rgb(131, 131, 131);
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  &__row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 30px;
+  }
+  &__item{
+    width: 350px;
+    height: 407.65px;
+    text-decoration: none;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    display: grid;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  &__subtitle{
+    color: rgb(28, 28, 39);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+  }
+  &__subtpr{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__grade{
+    display: flex;
+  }
+  &__star{
+    width: 23.33px;
+    height: 21.96px;
+  }
+  &__num{
+    color: rgb(131, 131, 131);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+  }
+  &__price{
+    color: rgb(255, 165, 66);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+    justify-self: right;
+    //align-self: center;
+    //text-align: right;
+  }
+  &__img{
+    width: 219px;
+    height: 178px;
+    justify-self: center;
+    align-self: center;
+    margin-bottom: 55px;
+  }
+}
