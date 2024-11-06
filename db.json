@@ -402,30 +402,37 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.1
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.2
             },
             {
               "color": "Красный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.3
             },
             {
               "color": "Зеленый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.4
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.5
             },
             {
               "color": "Фиолетовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.6
             }
           ]
-        }
+        },
+        "id": 13
       },
       {
         "title": "iPhone 12 Pro",
@@ -434,22 +441,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.7
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.8
             },
             {
               "color": "Золотой",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 1.9
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.0
             }
           ]
-        }
+        },
+        "id": 14
       },
       {
         "title": "iPhone 12 Mini",
@@ -458,30 +470,37 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.1
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.2
             },
             {
               "color": "Красный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.3
             },
             {
               "color": "Зеленый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.4
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.5
             },
             {
               "color": "Фиолетовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.6
             }
           ]
-        }
+        },
+        "id": 15
       },
       {
         "title": "iPhone 13",
@@ -490,26 +509,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.7
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.8
             },
             {
               "color": "Красный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 2.9
             },
             {
               "color": "Зеленый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.0
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.1
             }
           ]
-        }
+        },
+        "id": 16
       },
       {
         "title": "iPhone 13 Pro",
@@ -518,22 +543,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.2
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.3
             },
             {
               "color": "Золотой",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.4
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.5
             }
           ]
-        }
+        },
+        "id": 17
       },
       {
         "title": "iPhone 13 Mini",
@@ -542,26 +572,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.6
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.7
             },
             {
               "color": "Красный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.8
             },
             {
               "color": "Зеленый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 3.9
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.0
             }
           ]
-        }
+        },
+        "id": 18
       },
       {
         "title": "iPhone 14",
@@ -570,26 +606,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.1
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.2
             },
             {
               "color": "Красный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.3
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.4
             },
             {
               "color": "Фиолетовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.5
             }
           ]
-        }
+        },
+        "id": 19
       },
       {
         "title": "iPhone 14 Pro",
@@ -598,22 +640,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.6
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.7
             },
             {
               "color": "Золотой",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.8
             },
             {
               "color": "Фиолетовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 4.9
             }
           ]
-        }
+        },
+        "id": 20
       },
       {
         "title": "iPhone 15",
@@ -622,26 +669,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.0
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.1
             },
             {
               "color": "Розовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.2
             },
             {
               "color": "Желтый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.3
             },
             {
               "color": "Зеленый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.4
             }
           ]
-        }
+        },
+        "id": 21
       },
       {
         "title": "iPhone 15 Pro",
@@ -650,22 +703,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.5
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.6
             },
             {
               "color": "Бежевый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.7
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.8
             }
           ]
-        }
+        },
+        "id": 22
       },
       {
         "title": "iPhone 16",
@@ -674,26 +732,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 5.9
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.0
             },
             {
               "color": "Розовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.1
             },
             {
               "color": "Желтый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.2
             },
             {
               "color": "Фиолетовый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.3
             }
           ]
-        }
+        },
+        "id": 23
       },
       {
         "title": "iPhone 16 Pro",
@@ -702,22 +766,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.4
             },
             {
               "color": "Белый",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.5
             },
             {
               "color": "Золотой",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.6
             },
             {
               "color": "Синий",
-              "material": "Натуральная кожа"
+              "material": "Натуральная кожа",
+              "id": 6.7
             }
           ]
-        }
+        },
+        "id": 24
       }
   ],
   "silicone_cases": [
@@ -728,30 +797,37 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 6.7
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 6.8
             },
             {
               "color": "Красный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 6.9
             },
             {
               "color": "Зеленый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.0
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.1
             },
             {
               "color": "Фиолетовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.2
             }
           ]
-        }
+        },
+        "id": 25
       },
       {
         "title": "iPhone 12 Pro",
@@ -760,22 +836,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.3
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.4
             },
             {
               "color": "Золотой",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.5
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.6
             }
           ]
-        }
+        },
+        "id": 26
       },
       {
         "title": "iPhone 12 Mini",
@@ -784,30 +865,37 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.7
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.8
             },
             {
               "color": "Красный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 7.9
             },
             {
               "color": "Зеленый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.0
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.1
             },
             {
               "color": "Фиолетовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.2
             }
           ]
-        }
+        },
+        "id": 27
       },
       {
         "title": "iPhone 13",
@@ -816,26 +904,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.3
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.4
             },
             {
               "color": "Красный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.5
             },
             {
               "color": "Зеленый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.6
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.7
             }
           ]
-        }
+        },
+        "id": 28
       },
       {
         "title": "iPhone 13 Pro",
@@ -844,22 +938,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.8
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 8.9
             },
             {
               "color": "Золотой",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.0
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.1
             }
           ]
-        }
+        },
+        "id": 29
       },
       {
         "title": "iPhone 13 Mini",
@@ -868,26 +967,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.2
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.3
             },
             {
               "color": "Красный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.4
             },
             {
               "color": "Зеленый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.5
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.6
             }
           ]
-        }
+        },
+        "id": 30
       },
       {
         "title": "iPhone 14",
@@ -896,26 +1001,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.7
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.8
             },
             {
               "color": "Красный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 9.9
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.0
             },
             {
               "color": "Фиолетовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.1
             }
           ]
-        }
+        },
+        "id": 31
       },
       {
         "title": "iPhone 14 Pro",
@@ -924,22 +1035,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.2
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.3
             },
             {
               "color": "Золотой",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.4
             },
             {
               "color": "Фиолетовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.5
             }
           ]
-        }
+        },
+        "id": 32
       },
       {
         "title": "iPhone 15",
@@ -948,26 +1064,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.6
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.7
             },
             {
               "color": "Розовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.8
             },
             {
               "color": "Желтый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 10.9
             },
             {
               "color": "Зеленый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.0
             }
           ]
-        }
+        },
+        "id": 33
       },
       {
         "title": "iPhone 15 Pro",
@@ -976,22 +1098,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.1
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.2
             },
             {
               "color": "Бежевый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.3
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.4
             }
           ]
-        }
+        },
+        "id": 34
       },
       {
         "title": "iPhone 16",
@@ -1000,26 +1127,32 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.5
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.6
             },
             {
               "color": "Розовый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.7
             },
             {
               "color": "Желтый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.8
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 11.9
             }
           ]
-        }
+        },
+        "id": 35
       },
       {
         "title": "iPhone 16 Pro",
@@ -1028,22 +1161,27 @@
           "colors": [
             {
               "color": "Черный",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 12.0
             },
             {
               "color": "Белый",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 12.1
             },
             {
               "color": "Золотой",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 12.2
             },
             {
               "color": "Синий",
-              "material": "Силикон"
+              "material": "Силикон",
+              "id": 12.3
             }
           ]
-        }
+        },
+        "id": 36
       }
   ],
   "Glass_cases": [
@@ -1054,30 +1192,37 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.4
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.5
           },
           {
             "color": "Красный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.6
           },
           {
             "color": "Зеленый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.7
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.8
           },
           {
             "color": "Фиолетовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 12.9
           }
         ]
-      }
+      },
+      "id": 37
     },
     {
       "title": "iPhone 12 Pro",
@@ -1086,22 +1231,27 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.0
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.1
           },
           {
             "color": "Золотой",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.2
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.3
           }
         ]
-      }
+      },
+      "id": 38
     },
     {
       "title": "iPhone 12 Mini",
@@ -1110,30 +1260,37 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.4
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.5
           },
           {
             "color": "Красный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.6
           },
           {
             "color": "Зеленый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.7
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.8
           },
           {
             "color": "Фиолетовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 13.9
           }
         ]
-      }
+      },
+      "id": 39
     },
     {
       "title": "iPhone 13",
@@ -1142,26 +1299,32 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.0
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.1
           },
           {
             "color": "Красный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.2
           },
           {
             "color": "Зеленый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.3
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.4
           }
         ]
-      }
+      },
+      "id": 40
     },
     {
       "title": "iPhone 13 Pro",
@@ -1170,22 +1333,27 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.5
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.6
           },
           {
             "color": "Золотой",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.7
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.8
           }
         ]
-      }
+      },
+      "id": 41
     },
     {
       "title": "iPhone 13 Mini",
@@ -1194,26 +1362,32 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 14.9
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.0
           },
           {
             "color": "Красный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.1
           },
           {
             "color": "Зеленый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.2
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.3
           }
         ]
-      }
+      },
+      "id": 42
     },
     {
       "title": "iPhone 14",
@@ -1222,26 +1396,32 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.4
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.5
           },
           {
             "color": "Красный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.6
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.7
           },
           {
             "color": "Фиолетовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.8
           }
         ]
-      }
+      },
+      "id": 43
     },
     {
       "title": "iPhone 14 Pro",
@@ -1250,22 +1430,27 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 15.9
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.0
           },
           {
             "color": "Золотой",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.1
           },
           {
             "color": "Фиолетовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.2
           }
         ]
-      }
+      },
+      "id": 44
     },
     {
       "title": "iPhone 15",
@@ -1274,26 +1459,32 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.3
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.4
           },
           {
             "color": "Розовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.5
           },
           {
             "color": "Желтый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.6
           },
           {
             "color": "Зеленый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.7
           }
         ]
-      }
+      },
+      "id": 45
     },
     {
       "title": "iPhone 15 Pro",
@@ -1302,22 +1493,27 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.8
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 16.9
           },
           {
             "color": "Бежевый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.0
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.1
           }
         ]
-      }
+      },
+      "id": 46
     },
     {
       "title": "iPhone 16",
@@ -1326,26 +1522,32 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.2
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.3
           },
           {
             "color": "Розовый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.4
           },
           {
             "color": "Желтый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.5
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.6
           }
         ]
-      }
+      },
+      "id": 47
     },
     {
       "title": "iPhone 16 Pro",
@@ -1354,22 +1556,27 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.7
           },
           {
             "color": "Белый",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.8
           },
           {
             "color": "Золотой",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 17.9
           },
           {
             "color": "Синий",
-            "material": "Стекло"
+            "material": "Стекло",
+            "id": 18.0
           }
         ]
-      }
+      },
+      "id": 48
     }
   ],
   "wired_headphones": [
@@ -1388,6 +1595,7 @@
             "iPhone 13",
             "iPhone 14"
           ],
+          "id": 49,
           "img": "https://idestiny.in/wp-content/uploads/2024/10/Clean-Living-EarPods-with-3-SDL934922275-1-d49eb-600x702.jpeg"
         },
         {
@@ -1404,6 +1612,7 @@
             "iPhone 13",
             "iPhone 14"
           ],
+          "id": 50,
           "img": "https://touch.com.ua/upload/resize_cache/webp/resize_cache/iblock/187/500_500_1/187cafa90a4a60e130edac49bfde4fe6.webp"
         },
         {
@@ -1413,6 +1622,7 @@
           "compatible_with": [
             "iPhone 5 и новее"
           ],
+          "id": 51,
           "img": "https://tshop.r10s.com/872/ec5/282e/fe80/a046/b968/33ee/1105e985260242ac110006.jpg"
         },
         {
@@ -1422,6 +1632,7 @@
           "compatible_with": [
             "iPhone 7 и новее"
           ],
+          "id": 52,
           "img": "https://www.iguides.ru/upload/medialibrary/dca/dca80f64da309786df49b5bfe440b4fd.jpg"
         }
       ]
@@ -1439,6 +1650,7 @@
             "iPad (4-го поколения) и новее",
             "iPod touch (6-го поколения) и новее"
           ],
+          "id": 53,
           "img": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1081_0.jpg"
         },
         {
@@ -1450,6 +1662,7 @@
             "iPad (5-го поколения) и новее",
             "iPod touch (7-го поколения)"
           ],
+          "id": 54,
           "img": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Naushniki/AirPods%20Pro%20with%20Wireless%20Charging%20Case/3-500x400.jpg"
         },
         {
@@ -1461,6 +1674,7 @@
             "iPad (5-го поколения) и новее",
             "Mac с Bluetooth"
           ],
+          "id": 55,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9LR6gE0YTTiiWsYQeUwhivqdwk8XO4TsGw&s"
         },
         {
@@ -1471,6 +1685,7 @@
             "iPhone 7 и новее",
             "iPad (5-го поколения) и новее"
           ],
+          "id": 56,
           "img": "https://i.ebayimg.com/images/g/zfsAAOSwPcxluTAT/s-l1200.png"
         },
         {
@@ -1481,11 +1696,11 @@
             "iPhone 7 и новее",
             "iPad (5-го поколения) и новее"
           ],
+          "id": 57,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuPaEBDO27Pzids2GeV42i6zcsW65qhvyaA&s"
         }
       ]
     }
-
   ]
 }
 

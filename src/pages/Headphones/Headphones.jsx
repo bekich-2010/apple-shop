@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import logo1 from "../../assets/headphones-1.jpg";
 import logo2 from "../../assets/headphones2.jpg";
 import logo3 from "../../assets/headphones3.jpg";
@@ -8,10 +8,25 @@ import logo6 from '../../assets/headphones5.jpg'
 import logo7 from '../../assets/headphones.jpg'
 import './Headphones.scss'
 import {MdFavoriteBorder, MdOutlineFavorite} from "react-icons/md";
+import axios from "axios";
 
 const Headphones = () => {
+    const [earphones, setEarphones] = useState([])
+
+    useEffect(() => {
+        axios('http://localhost:8080/wired_headphones')
+            .then(res => setEarphones(res))
+    }, [])
     return (
         <main className="main">
+
+            {/*<div>*/}
+            {/*    {*/}
+            {/*        earphones.map(item =>(*/}
+            {/*            <p>{item.name}</p>*/}
+            {/*        ))*/}
+            {/*    }*/}
+            {/*</div>*/}
             <section className="headphones">
                 <div className="container">
                     <h1 className="headphones__title">Наушники</h1>

@@ -1,0 +1,63 @@
+.leathercases{
+  padding-top: 30px;
+  &__des{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    align-self: end;
+    color: rgba(0,0,0);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+  }
+  &__title{
+    font-size: 25px;
+    font-family: Montserrat, sans-serif;
+    color: rgba(0,0,0,0.7);
+    margin-bottom: 40px;
+  }
+  &__material{
+    color: rgba(0,0,0);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    align-self: center;
+    justify-self: center;
+  }
+  &__color{
+    color: rgba(0,0,0);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    align-self: center;
+    justify-self: center;
+  }
+  &__img{
+    width: 201px;
+    height: 202px;
+    justify-self: center;
+    align-self: center;
+  }
+  &__item-title{
+    font-family: Montserrat, sans-serif;
+    font-size: 19px;
+    color: rgb(100, 100, 100);
+    justify-self: center;
+    align-self: start;
+  }
+  &__row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  &__item{
+    display: grid;
+    flex-wrap: wrap;
+    width: 350px;
+    height: 407.65px;
+    padding: 20px;
+    border-radius: 30px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+  }
+
+}

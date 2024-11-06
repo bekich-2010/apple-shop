@@ -27,7 +27,9 @@ const Contacts = () => {
                         </div>
                         <div className="contacts__phone">
                             <img src={logo3} alt="" className="contacts__phone-img"/>
-                            <h3 className="contacts__number">+7 777 777 77 77</h3>
+                            <h3 className="contacts__number">+996 704 011 183 <br/>
+                                +996 777 312 112
+                            </h3>
                         </div>
                     </div>
                     <div className="contacts__right">
@@ -45,8 +47,6 @@ const Contacts = () => {
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </section>
     );
