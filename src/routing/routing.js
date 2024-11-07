@@ -10,6 +10,8 @@ import SiliconCases from "../pages/Cases/SiliconCases/SiliconCases";
 import LeatherCases from "../pages/Cases/LeatherCases/LeatherCases";
 import Terms from "../pages/Terms/Terms";
 import Contacts from "../pages/Contacts/Contacts";
+import Register from "../pages/Register/Register";
+import Login from "../pages/Login/Login";
 
 const routing =createBrowserRouter(
     [
@@ -52,6 +54,14 @@ const routing =createBrowserRouter(
                 {
                     path: "contacts",
                     element: <Contacts/>
+                },
+                {
+                    path: 'register',
+                    element: <Register/>
+                },
+                {
+                    path: 'login',
+                    element: <Login/>
                 }
             ]
         }

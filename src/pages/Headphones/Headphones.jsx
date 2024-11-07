@@ -11,19 +11,23 @@ import {MdFavoriteBorder, MdOutlineFavorite} from "react-icons/md";
 import axios from "axios";
 
 const Headphones = () => {
-    const [earphones, setEarphones] = useState([])
+    const [headphones, setHeadphones] = useState([])
 
     useEffect(() => {
         axios('http://localhost:8080/wired_headphones')
-            .then(res => setEarphones(res))
+            .then(res => console.log(res.data))
+            .catch(err => console.log(err));
     }, [])
     return (
-        <main className="main">
-
+        <>
             {/*<div>*/}
             {/*    {*/}
-            {/*        earphones.map(item =>(*/}
-            {/*            <p>{item.name}</p>*/}
+            {/*        headphones.map((item) =>(*/}
+            {/*            <div key={item.id}>*/}
+            {/*                <p>{item.color}</p>*/}
+            {/*                <img src={item.earphones.img} alt=""/>*/}
+            {/*                <p>{item.compatible_with}</p>*/}
+            {/*            </div>*/}
             {/*        ))*/}
             {/*    }*/}
             {/*</div>*/}
@@ -170,7 +174,7 @@ const Headphones = () => {
                     </div>
                 </div>
             </section>
-        </main>
+        </>
     );
 };
 
