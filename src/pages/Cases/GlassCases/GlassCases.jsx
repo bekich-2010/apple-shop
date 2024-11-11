@@ -8,7 +8,7 @@ const GlassCases = () => {
 
     useEffect(() => {
         axios('http://localhost:8080/Glass_cases')
-        .then(res => setCases(res.data))
+            .then(res => setCases(res.data))
     }, [])
 
     return (

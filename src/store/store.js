@@ -1,46 +1,14 @@
-import {createContext, useEffect, useState} from "react";
-import axios from "axios";
+import {configureStore} from "@reduxjs/toolkit";
+import changeFavorites from "../store/reducers/changeFavorites";
+import addCart from "../store/reducers/addCart";
+import removeCart from "../store/reducers/removeCart";
+import user from "../store/reducers/user";
 
-export const AppleContext = createContext();
-
-const Context = (props) => {
-
-    const [favorites, setFavorites] = useState([])
-
-    const [products, setProducts] = useState([])
-
-
-
-    useEffect(()=>{
-        axios('http://localhost:8080/products')
-            .then(({data})=>setProducts(data))
-
-        if (localStorage.getItem('favorites')!== null){
-            setFavorites(JSON.parse(localStorage.getItem('favorites')))
-        }
-    },[])
-
-    const changeFavorites = (id)=>{
-        if (favorites.includes(id)){
-            setFavorites((prev)=>prev.filter(item=> item !== id))
-        }else {
-            setFavorites((prev)=>[...prev,id])
-        }
-
+export const store = configureStore({
+    reducer: {
+        changeFavorites,
+        addCart,
+        removeCart,
+        user
     }
-
-    useEffect(()=>{
-        localStorage.setItem('favorites',JSON.stringify(favorites))
-    },[favorites])
-
-    let value = {
-        products,
-        favorites,
-        changeFavorites
-    }
-
-
-    return <AppleContext.Provider value={value}>
-        {props.children}
-    </AppleContext.Provider>
-}
+})

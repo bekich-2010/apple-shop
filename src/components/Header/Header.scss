@@ -4,6 +4,7 @@
     color: rgb(16, 16, 16);
     font-family: Montserrat, sans-serif;
     font-size: 25px;
+    width: 100px;
   }
 
   &__list{
@@ -23,18 +24,28 @@
     height: 25px;
     text-align: left;
   }
+  &__acc{
+    justify-self: right;
+    align-self: start;
+  }
+  &__choise{
+    color: rgb(16, 16, 16);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    width: 105px;
+    transition: 0.5s;
+    &:hover {
+      color: rgb(255, 165, 66);
+      transition: .2s;
+    }
+  }
   &__nav{
     display: flex;
     column-gap: 35px;
     flex-wrap: wrap;
     width: 400px;
-    &-choise{
-      color: rgb(16, 16, 16);
-      font-family: Montserrat, sans-serif;
-      font-size: 15px;
-      text-decoration: none;
-      cursor: pointer;
-    }
     &-div{
       display: flex;
       justify-content: space-between;
