@@ -23,7 +23,7 @@ const GlassCases = () => {
                                 <img src={logo} alt="" className="glasscases__img"/>
                                 <p className="glasscases__color">Прозрачный</p>
                                 <p className="glasscases__material">Стекло</p>
-                                <p className="glasscases__des">{item.glass_case.description}</p>
+                                <p className="glasscases__des">{item.description}</p>
                             </div>
                         ))
                     }

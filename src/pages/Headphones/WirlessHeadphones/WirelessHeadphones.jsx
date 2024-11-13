@@ -12,14 +12,14 @@ const WirelessHeadphones = () => {
             .then(res => setEarphones(res.data))
     }, [])
     return (
-        <section className="wirlessheadphones">
+        <section className="wirelessheadphones">
             <div className="container">
                 <h1 className="wirelessheadphones__title">Беспроводные наушники</h1>
-                <div className="wirlessheadphones__row">
+                <div className="wirelessheadphones__row">
                     {
                         earphones.map((item) => (
-                            <div key={item.id} className="wirlessheadphones__item">
-                                <img className="wiredheadphones__img" src={item.img} alt=""/>
+                            <div key={item.id} className="wirelessheadphones__item">
+                                <img className="wirelessheadphones__img" src={item.img} alt=""/>
                                 <h3 className="wirelessheadphones__subtitle">{item.name}</h3>
                                 <p className="wirelessheadphones__price">{item.price}</p>
                                 <div className="wirelessheadphones__grade">

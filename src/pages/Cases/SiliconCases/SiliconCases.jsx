@@ -24,7 +24,7 @@ const SiliconCases = () => {
                                 <img src={logo} alt="" className="leathercases__img"/>
                                 <p className="siliconcases__color">Синий</p>
                                 <p className="siliconcases__material">Силикон</p>
-                                <p className="siliconcases__des">{item.silicone_case.description}</p>
+                                <p className="siliconcases__des">{item.description}</p>
                             </div>
                         ))
                     }
