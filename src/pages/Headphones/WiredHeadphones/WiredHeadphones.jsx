@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import './WiredHeadphones.scss'
+import {useParams, useNavigate} from 'react-router-dom'
 import logo from '../../Headphones/star.jpg'
 
 const WiredHeadphones = () => {
@@ -11,6 +12,11 @@ const WiredHeadphones = () => {
         axios('http://localhost:8080/wired_headphones')
             .then((res) => setEarphones(res.data))
     }, []);
+
+    const params = useParams()
+
+    const nav = useNavigate()
+
     return (
         <section className="wiredheadphones">
             <div className="container">
@@ -19,7 +25,7 @@ const WiredHeadphones = () => {
                     {
                         earphones.map((item) => (
                             <div className="wiredheadphones__item" key={item.id}>
-                                <img className="wiredheadphones__img" src={item.img} alt=""/>
+                                <img onClick={() => nav(`/earphones/${item.id}`)} className="wiredheadphones__img" src={item.img} alt=""/>
                                 <h3 className="wiredheadphones__subtitle">{item.name}</h3>
                                 <div className="wiredheadphones__grade">
                                     <img src={logo} alt="" className="wiredheadphones__star"/>

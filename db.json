@@ -395,1119 +395,1184 @@
     }
   ],
   "leather_cases": [
-      {
-        "title": "iPhone 12",
-          "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 1.1
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 1.2
-            },
-            {
-              "color": "Красный",
-              "material": "Натуральная кожа",
-              "id": 1.3
-            },
-            {
-              "color": "Зеленый",
-              "material": "Натуральная кожа",
-              "id": 1.4
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 1.5,
-              "img": "https://avatars.mds.yandex.net/i?id=8522b4e10bd4fa76e4e036781b89d8650e1e4756-5477018-images-thumbs&n=13"
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Натуральная кожа",
-              "id": 1.6
-            }
-          ],
-        "id": 13
-      },
-      {
-        "title": "iPhone 12 Pro",
-          "description": "Премиум-решение для вашего устройства. Чехол из натуральной кожи отлично сочетает в себе защиту и элегантность, идеально подчеркивая дизайн iPhone 12 Pro.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 1.7
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 1.8
-            },
-            {
-              "color": "Золотой",
-              "material": "Натуральная кожа",
-              "id": 1.9
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 2.0
-            }
-          ],
-        "id": 14
-      },
-      {
-        "title": "iPhone 12 Mini",
-          "description": "Компактный и легкий чехол, который не добавляет объема вашему смартфону. Изготовлен из мягкой кожи, обеспечивая надежную защиту и удобный захват.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 2.1
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 2.2
-            },
-            {
-              "color": "Красный",
-              "material": "Натуральная кожа",
-              "id": 2.3
-            },
-            {
-              "color": "Зеленый",
-              "material": "Натуральная кожа",
-              "id": 2.4
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 2.5
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Натуральная кожа",
-              "id": 2.6
-            }
-          ],
-        "id": 15
-      },
-      {
-        "title": "iPhone 13",
-          "description": "Современный и стильный чехол из кожи, который дополнительно защищает ваш iPhone 13 от ежедневных повреждений. Обеспечивает полный доступ ко всем функциям устройства.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 2.7
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 2.8
-            },
-            {
-              "color": "Красный",
-              "material": "Натуральная кожа",
-              "id": 2.9
-            },
-            {
-              "color": "Зеленый",
-              "material": "Натуральная кожа",
-              "id": 3.0
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 3.1
-            }
-          ],
-        "id": 16
-      },
-      {
-        "title": "iPhone 13 Pro",
-          "description": "Элегантный чехол, выполненный из высококачественной кожи, который защищает ваш iPhone 13 Pro, подчеркивая его премиум-статус. Идеально подходит для деловых людей.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 3.2
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 3.3
-            },
-            {
-              "color": "Золотой",
-              "material": "Натуральная кожа",
-              "id": 3.4
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 3.5
-            }
-          ],
-        "id": 17
-      },
-      {
-        "title": "iPhone 13 Mini",
-          "description": "Стильный и прочный, этот чехол из натуральной кожи защитит ваш компактный iPhone 13 Mini, не утяжеляя его. Идеально подходит для повседневного использования.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 3.6
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 3.7
-            },
-            {
-              "color": "Красный",
-              "material": "Натуральная кожа",
-              "id": 3.8
-            },
-            {
-              "color": "Зеленый",
-              "material": "Натуральная кожа",
-              "id": 3.9
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 4.0
-            }
-          ],
-        "id": 18
-      },
-      {
-        "title": "iPhone 14",
-          "description": "Изящный чехол, созданный для защиты iPhone 14 от повреждений, сделан из качественной кожи и придает устройству стильный вид.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 4.1
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 4.2
-            },
-            {
-              "color": "Красный",
-              "material": "Натуральная кожа",
-              "id": 4.3
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 4.4
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Натуральная кожа",
-              "id": 4.5
-            }
-          ],
-        "id": 19
+    {
+      "title": "iPhone 12",
+      "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 11,
+          "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg",
+          "price": "3500"
+        },
+        {
+          "color": "Белый",
+          "material": "Натуральная кожа",
+          "id": 12,
+          "img": "https://caseroom.in.ua/image/cache/catalog/demo/product/00000043601_2/00000043601_2_0-1000x1000.jpg",
+          "price": "3500"
+        },
+        {
+          "color": "Красный",
+          "material": "Натуральная кожа",
+          "id": 13,
+          "img": "https://www.istore.ua/upload/iblock/fd9/leather_mag_safe_for_iphone_12_pro_max_red_1_.jpg",
+          "price": "3800"
+        },
+        {
+          "color": "Синий",
+          "material": "Натуральная кожа",
+          "id": 15,
+          "img": "https://avatars.mds.yandex.net/i?id=8522b4e10bd4fa76e4e036781b89d8650e1e4756-5477018-images-thumbs&n=13",
+          "price": "3700"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "iPhone 12 Pro",
+      "description": "Премиум-решение для вашего устройства. Чехол из натуральной кожи отлично сочетает в себе защиту и элегантность, идеально подчеркивая дизайн iPhone 12 Pro.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 17,
+          "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg",
+          "price": "3600"
+        },
+        {
+          "color": "Белый",
+          "material": "Натуральная кожа",
+          "id": 18,
+          "img": "https://basket-10.wbbasket.ru/vol1488/part148829/148829438/images/big/1.webp",
+          "price": "3600"
+        },
+        {
+          "color": "Золотой",
+          "material": "Натуральная кожа",
+          "id": 19,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNM_7mbhS2nr5H-8Eu0xpT9du8Phu0qahjA&s",
+          "price": "4000"
+        },
+        {
+          "color": "Синий",
+          "material": "Натуральная кожа",
+          "id": 20,
+          "img": "https://technolove.ru/upload/iblock/419/magsafe_kojablue2.jpg",
+          "price": "3800"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "iPhone 12 Mini",
+      "description": "Компактный и легкий чехол, который не добавляет объема вашему смартфону. Изготовлен из мягкой кожи, обеспечивая надежную защиту и удобный захват.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 21,
+          "img": "https://fotomix.by/image/cache/catalog/photo/product-photo/Apple/apple-access/magsafe-leather-case/iphone-12-mini/12-mini-black-2-600x600.jpg",
+          "price": "3400"
+        },
+        {
+          "color": "Белый",
+          "material": "Натуральная кожа",
+          "id": 22,
+          "img": "https://imagnsk.ru/image/cache/catalog/product-13505-600x600.jpeg",
+          "price": "3400"
+        },
+        {
+          "color": "Красный",
+          "material": "Натуральная кожа",
+          "id": 23,
+          "img": "https://basket-02.wbbasket.ru/vol158/part15880/15880253/images/big/1.webp",
+          "price": "3800"
+        },
+        {
+          "color": "Синий",
+          "material": "Натуральная кожа",
+          "id": 25,
+          "img": "https://images.biggeek.ru/1/435/5ff3/12678-278MHK83.jpeg",
+          "price": "3700"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "iPhone 13",
+      "description": "Современный и стильный чехол из кожи, который дополнительно защищает ваш iPhone 13 от ежедневных повреждений. Обеспечивает полный доступ ко всем функциям устройства.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 27,
+          "img": "https://www.myphone.kg/files/media/14/14136.jpeg",
+          "price": "3500"
+        },
+        {
+          "color": "Белый",
+          "material": "Натуральная кожа",
+          "id": 28,
+          "img": "https://basket-10.wbbasket.ru/vol1491/part149113/149113373/images/big/1.webp",
+          "price": "3500"
+        },
+        {
+          "color": "Красный",
+          "material": "Натуральная кожа",
+          "id": 29,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbroLJ7Gsrp1z9Sx7HKSLranN25n6I0vOmXA&s",
+          "price": "3800"
+        },
+        {
+          "color": "Синий",
+          "material": "Натуральная кожа",
+          "id": 31,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IChlhcfTfbkBVu87MKy5rfELc7On7frkIw&s",
+          "price": "3700"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "iPhone 13 Pro",
+      "description": "Элегантный чехол, выполненный из высококачественной кожи, который защищает ваш iPhone 13 Pro, подчеркивая его премиум-статус. Идеально подходит для деловых людей.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 32,
+          "img": "https://www.myphone.kg/files/media/14/14136.jpeg",
+          "price": "3600"
+        },
+        {
+          "color": "Белый",
+          "material": "Натуральная кожа",
+          "id": 33,
+          "img": "https://basket-10.wbbasket.ru/vol1491/part149113/149113373/images/big/1.webp",
+          "price": "3600"
+        },
+        {
+          "color": "Золотой",
+          "material": "Натуральная кожа",
+          "id": 34,
+          "img": "https://shop.9282922.ru/upload/iblock/8ff/8ffe8db7ae5c6a3fa7052599e1131ff2.jpeg",
+          "price": "4000"
+        },
+        {
+          "color": "Синий",
+          "material": "Натуральная кожа",
+          "id": 35,
+          "img": "https://applepack.ru/wa-data/public/shop/products/19/85/18519/images/63402/63402.600.jpg",
+          "price": "3800"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "iPhone 13 Mini",
+      "description": "Стильный и прочный, этот чехол из натуральной кожи защитит ваш компактный iPhone 13 Mini, не утяжеляя его. Идеально подходит для повседневного использования.",
+      "colors": [
+        {
+          "color": "Черный",
+          "material": "Натуральная кожа",
+          "id": 36,
+          "img": "https://images.biggeek.ru/1/435/22e9/14835-517MM0M3.jpeg",
+          "price": "3400"
+        },
+        {
+          "color": "Бежевый",
+          "material": "Натуральная кожа",
+          "id": 37,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDCzxtSdbXlF5Tsh_HGUxxH_XrgLFGFrkWg&s",
+          "price": "3400"
+        },
+        {
+          "color": "Красный",
+          "material": "Натуральная кожа",
+          "id": 38,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDCzxtSdbXlF5Tsh_HGUxxH_XrgLFGFrkWg&s",
+          "price": "3500"
+        }
+      ],
+      "id": 18
       },
       {
         "title": "iPhone 14 Pro",
-          "description": "Премиум-чехол, который обеспечивает защиту и стиль для вашего iPhone 14 Pro. Высококачественная кожа и тщательная отделка делают его идеальным аксессуаром.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 4.6
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 4.7
-            },
-            {
-              "color": "Золотой",
-              "material": "Натуральная кожа",
-              "id": 4.8
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Натуральная кожа",
-              "id": 4.9
-            }
-          ],
-        "id": 20
+        "description": "Премиум-чехол, который обеспечивает защиту и стиль для вашего iPhone 14 Pro. Высококачественная кожа и тщательная отделка делают его идеальным аксессуаром.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Натуральная кожа",
+            "id": 46,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLeOJ7MrrIL0KIqTyRScaRKMrerSpm4qXxg&s"
+          },
+          {
+            "color": "Белый",
+            "material": "Натуральная кожа",
+            "id": 47,
+            "img": "https://best-magazin.com/image/cache/catalog/product/APPLE_acsessuare/iPhone/kzdoo/kzdoo-mag-noble-iphone-14-pro-beliy-800x800.jpg"
+          },
+          {
+            "color": "Золотой",
+            "material": "Натуральная кожа",
+            "id": 48,
+            "img": "https://ir.ozone.ru/s3/multimedia-y/c1000/6481993090.jpg"
+          },
+          {
+            "color": "Синий",
+            "material": "Натуральная кожа",
+            "id": 49,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCEPpkeQXMGoK48ti-fyIyhlAjx9mK1h6mg&s"
+          }
+        ],
+        "id": 20,
+        "price": 2890
       },
       {
         "title": "iPhone 15",
-          "description": "Элегантный и прочный чехол, который идеально подходит для iPhone 15. Изготовлен из высококачественной кожи, он защищает устройство и придает ему стильный вид.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 5.0
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 5.1
-            },
-            {
-              "color": "Розовый",
-              "material": "Натуральная кожа",
-              "id": 5.2
-            },
-            {
-              "color": "Желтый",
-              "material": "Натуральная кожа",
-              "id": 5.3
-            },
-            {
-              "color": "Зеленый",
-              "material": "Натуральная кожа",
-              "id": 5.4
-            }
-          ],
-        "id": 21
+        "description": "Элегантный и прочный чехол, который идеально подходит для iPhone 15. Изготовлен из высококачественной кожи, он защищает устройство и придает ему стильный вид.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Натуральная кожа",
+            "id": 50,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRelsunDjmNj0k9TPywxa6vN-9S1E4n3JBw&s"
+          },
+          {
+            "color": "Белый",
+            "material": "Натуральная кожа",
+            "id": 51,
+            "img": "https://images.biggeek.ru/1/435/7ca4/24925-26leather-back-cover-clay-back-cover-decoded-bags-iphone-15-pro-max-376314.jpg.jpg"
+          },
+          {
+            "color": "Красный",
+            "material": "Натуральная кожа",
+            "id": 53,
+            "img": "https://basket-15.wbbasket.ru/vol2320/part232071/232071189/images/big/1.webp"
+          },
+          {
+            "color": "Синий",
+            "material": "Натуральная кожа",
+            "id": 54,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFdJ38fl0PxffFngfLxvWnarEc7ORZDI31Q&s"
+          }
+        ],
+        "id": 21,
+        "price": 3150
       },
       {
         "title": "iPhone 15 Pro",
-          "description": "Стильный и практичный, этот чехол из натуральной кожи защищает ваш iPhone 15 Pro, подчеркивая его элегантный дизайн и обеспечивая надежность.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 5.5
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 5.6
-            },
-            {
-              "color": "Бежевый",
-              "material": "Натуральная кожа",
-              "id": 5.7
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 5.8
-            }
-          ],
-        "id": 22
+        "description": "Стильный и практичный, этот чехол из натуральной кожи защищает ваш iPhone 15 Pro, подчеркивая его элегантный дизайн и обеспечивая надежность.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Натуральная кожа",
+            "id": 55,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE_vS2gjnYuNHNzUH4KeW1OilCtQAxG-HXA&s"
+          },
+          {
+            "color": "Белый",
+            "material": "Натуральная кожа",
+            "id": 56,
+            "img": "https://ir.ozone.ru/s3/multimedia-q/c1000/6836968322.jpg"
+          },
+          {
+            "color": "Красный",
+            "material": "Натуральная кожа",
+            "id": 57,
+            "img": "https://www.i100.ru/wa-data/public/shop/products/15/71/7115/images/34772/34772.750.jpg"
+          },
+          {
+            "color": "Синий",
+            "material": "Натуральная кожа",
+            "id": 58,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XPxPQLNkQ3t5rORk8rtxKINtx8SFyNkxgQ&s"
+          }
+        ],
+        "id": 22,
+        "price": 4120
       },
       {
         "title": "iPhone 16",
-          "description": "Изысканный кожаный чехол, который прекрасно защитит ваш iPhone 16 от повреждений. Прочный и стильный, он станет отличным дополнением к вашему устройству.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 5.9
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 6.0
-            },
-            {
-              "color": "Розовый",
-              "material": "Натуральная кожа",
-              "id": 6.1
-            },
-            {
-              "color": "Желтый",
-              "material": "Натуральная кожа",
-              "id": 6.2
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Натуральная кожа",
-              "id": 6.3
-            }
-          ],
-        "id": 23
+        "description": "Изысканный кожаный чехол, который прекрасно защитит ваш iPhone 16 от повреждений. Прочный и стильный, он станет отличным дополнением к вашему устройству.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Натуральная кожа",
+            "id": 59,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4dnQi5RoTXDAVHK4ut8IchT0FB_mUhskTQ&s"
+          },
+          {
+            "color": "Белый",
+            "material": "Натуральная кожа",
+            "id": 60,
+            "img": "https://prochehol.com.ua/wa-data/public/shop/products/92/33/53392/images/390640/390640.970.jpg"
+          },
+          {
+            "color": "Красный",
+            "material": "Натуральная кожа",
+            "id": 61,
+            "img": "https://wookie.com.ua/images/23/chekhol-knizhka-khazneh-retro-wallet-dlya-apple-iphone-16165672-12598263785920_small10.jpg"
+          },
+          {
+            "color": "Синий",
+            "material": "Натуральная кожа",
+            "id": 62,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-j3KVO96oY31yJMSXURITepI6ciOh5uddAQ&s"
+          }
+        ],
+        "id": 23,
+        "price": 2780
       },
       {
         "title": "iPhone 16 Pro",
-          "description": "Наиболее мощный и элегантный чехол для iPhone 16 Pro. Изготовленный из качественной кожи, он не только защищает устройство, но и добавляет ему шика.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Натуральная кожа",
-              "id": 6.4
-            },
-            {
-              "color": "Белый",
-              "material": "Натуральная кожа",
-              "id": 6.5
-            },
-            {
-              "color": "Золотой",
-              "material": "Натуральная кожа",
-              "id": 6.6
-            },
-            {
-              "color": "Синий",
-              "material": "Натуральная кожа",
-              "id": 6.7
-            }
-          ],
-        "id": 24
+        "description": "Наиболее мощный и элегантный чехол для iPhone 16 Pro. Изготовленный из качественной кожи, он не только защищает устройство, но и добавляет ему шика.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Натуральная кожа",
+            "id": 64,
+            "img": "https://img.myipadbox.com/upload/store/product_l/EDA004834005A.jpg"
+          },
+          {
+            "color": "Белый",
+            "material": "Натуральная кожа",
+            "id": 65,
+            "img": "https://img.myipadbox.com/upload/store/detail_l/EDA004896606B_3.jpg"
+          },
+          {
+            "color": "Золотой",
+            "material": "Натуральная кожа",
+            "id": 66,
+            "img": "https://wookie.com.ua/content/images/29/chekhol-knizhka-khazneh-wallet-cover-dlya-apple-iphone-16-pro-max165828-34331806872958_small11.jpg"
+          },
+          {
+            "color": "Синий",
+            "material": "Натуральная кожа",
+            "id": 67,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXBSMryekiEbCJl9CIo-2nQv_Jz4sg2ySm2Q&s"
+          }
+        ],
+        "id": 24,
+        "price": 4990
       }
-  ],
+    ],
   "silicone_cases": [
       {
         "title": "iPhone 12",
-          "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 6.7
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 6.8
-            },
-            {
-              "color": "Красный",
-              "material": "Силикон",
-              "id": 6.9
-            },
-            {
-              "color": "Зеленый",
-              "material": "Силикон",
-              "id": 7.0
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 7.1
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Силикон",
-              "id": 7.2
-            }
-          ],
+        "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 67,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 68,
+            "img": ""
+          },
+          {
+            "color": "Красный",
+            "material": "Силикон",
+            "id": 69,
+            "img": ""
+          },
+          {
+            "color": "Зеленый",
+            "material": "Силикон",
+            "id": 70,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 71,
+            "img": ""
+          },
+          {
+            "color": "Фиолетовый",
+            "material": "Силикон",
+            "id": 72,
+            "img": ""
+          }
+        ],
         "id": 25
       },
       {
         "title": "iPhone 12 Pro",
-          "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 7.3
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 7.4
-            },
-            {
-              "color": "Золотой",
-              "material": "Силикон",
-              "id": 7.5
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 7.6
-            }
-          ],
+        "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 73,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 74,
+            "img": ""
+          },
+          {
+            "color": "Золотой",
+            "material": "Силикон",
+            "id": 75,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 76,
+            "img": ""
+          }
+        ],
         "id": 26
       },
       {
         "title": "iPhone 12 Mini",
-          "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 7.7
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 7.8
-            },
-            {
-              "color": "Красный",
-              "material": "Силикон",
-              "id": 7.9
-            },
-            {
-              "color": "Зеленый",
-              "material": "Силикон",
-              "id": 8.0
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 8.1
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Силикон",
-              "id": 8.2
-            }
-          ],
+        "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 77,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 78,
+            "img": ""
+          },
+          {
+            "color": "Красный",
+            "material": "Силикон",
+            "id": 79,
+            "img": ""
+          },
+          {
+            "color": "Зеленый",
+            "material": "Силикон",
+            "id": 80,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 81,
+            "img": ""
+          },
+          {
+            "color": "Фиолетовый",
+            "material": "Силикон",
+            "id": 82,
+            "img": ""
+          }
+        ],
         "id": 27
       },
       {
         "title": "iPhone 13",
-          "description": "Защитный силиконовый чехол с мягкой текстурой.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 8.3
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 8.4
-            },
-            {
-              "color": "Красный",
-              "material": "Силикон",
-              "id": 8.5
-            },
-            {
-              "color": "Зеленый",
-              "material": "Силикон",
-              "id": 8.6
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 8.7
-            }
-          ],
+        "description": "Защитный силиконовый чехол с мягкой текстурой.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 83,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 84,
+            "img": ""
+          },
+          {
+            "color": "Красный",
+            "material": "Силикон",
+            "id": 85,
+            "img": ""
+          },
+          {
+            "color": "Зеленый",
+            "material": "Силикон",
+            "id": 86,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 87,
+            "img": ""
+          }
+        ],
         "id": 28
       },
       {
         "title": "iPhone 13 Pro",
-          "description": "Силиконовый чехол с приятной текстурой и надежной защитой.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 8.8
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 8.9
-            },
-            {
-              "color": "Золотой",
-              "material": "Силикон",
-              "id": 9.0
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 9.1
-            }
-          ],
+        "description": "Силиконовый чехол с приятной текстурой и надежной защитой.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 88,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 89,
+            "img": ""
+          },
+          {
+            "color": "Золотой",
+            "material": "Силикон",
+            "id": 90,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 91,
+            "img": ""
+          }
+        ],
         "id": 29
       },
       {
         "title": "iPhone 13 Mini",
-          "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 9.2
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 9.3
-            },
-            {
-              "color": "Красный",
-              "material": "Силикон",
-              "id": 9.4
-            },
-            {
-              "color": "Зеленый",
-              "material": "Силикон",
-              "id": 9.5
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 9.6
-            }
-          ],
+        "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 92,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 93,
+            "img": ""
+          },
+          {
+            "color": "Красный",
+            "material": "Силикон",
+            "id": 94,
+            "img": ""
+          },
+          {
+            "color": "Зеленый",
+            "material": "Силикон",
+            "id": 95,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 96,
+            "img": ""
+          }
+        ],
         "id": 30
       },
       {
         "title": "iPhone 14",
-          "description": "Прочный силиконовый чехол с защитой от падений.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 9.7
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 9.8
-            },
-            {
-              "color": "Красный",
-              "material": "Силикон",
-              "id": 9.9
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 10.0
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Силикон",
-              "id": 10.1
-            }
-          ],
+        "description": "Прочный силиконовый чехол с защитой от падений.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 97,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 98,
+            "img": ""
+          },
+          {
+            "color": "Красный",
+            "material": "Силикон",
+            "id": 99,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 100,
+            "img": ""
+          },
+          {
+            "color": "Фиолетовый",
+            "material": "Силикон",
+            "id": 101,
+            "img": ""
+          }
+        ],
         "id": 31
       },
       {
         "title": "iPhone 14 Pro",
-          "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 10.2
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 10.3
-            },
-            {
-              "color": "Золотой",
-              "material": "Силикон",
-              "id": 10.4
-            },
-            {
-              "color": "Фиолетовый",
-              "material": "Силикон",
-              "id": 10.5
-            }
-          ],
+        "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 102,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 103,
+            "img": ""
+          },
+          {
+            "color": "Золотой",
+            "material": "Силикон",
+            "id": 104,
+            "img": ""
+          },
+          {
+            "color": "Фиолетовый",
+            "material": "Силикон",
+            "id": 105,
+            "img": ""
+          }
+        ],
         "id": 32
       },
       {
         "title": "iPhone 15",
-          "description": "Современный силиконовый чехол с защитой от загрязнений.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 10.6
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 10.7
-            },
-            {
-              "color": "Розовый",
-              "material": "Силикон",
-              "id": 10.8
-            },
-            {
-              "color": "Желтый",
-              "material": "Силикон",
-              "id": 10.9
-            },
-            {
-              "color": "Зеленый",
-              "material": "Силикон",
-              "id": 11.0
-            }
-          ],
+        "description": "Современный силиконовый чехол с защитой от загрязнений.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 106,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 107,
+            "img": ""
+          },
+          {
+            "color": "Розовый",
+            "material": "Силикон",
+            "id": 108,
+            "img": ""
+          },
+          {
+            "color": "Желтый",
+            "material": "Силикон",
+            "id": 109,
+            "img": ""
+          },
+          {
+            "color": "Зеленый",
+            "material": "Силикон",
+            "id": 110,
+            "img": ""
+          }
+        ],
         "id": 33
       },
       {
         "title": "iPhone 15 Pro",
-          "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
-          "colors": [
-            {
-              "color": "Черный",
-              "material": "Силикон",
-              "id": 11.1
-            },
-            {
-              "color": "Белый",
-              "material": "Силикон",
-              "id": 11.2
-            },
-            {
-              "color": "Бежевый",
-              "material": "Силикон",
-              "id": 11.3
-            },
-            {
-              "color": "Синий",
-              "material": "Силикон",
-              "id": 11.4
-            }
-          ],
+        "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
+        "colors": [
+          {
+            "color": "Черный",
+            "material": "Силикон",
+            "id": 111,
+            "img": ""
+          },
+          {
+            "color": "Белый",
+            "material": "Силикон",
+            "id": 112,
+            "img": ""
+          },
+          {
+            "color": "Бежевый",
+            "material": "Силикон",
+            "id": 113,
+            "img": ""
+          },
+          {
+            "color": "Синий",
+            "material": "Силикон",
+            "id": 114,
+            "img": ""
+          }
+        ],
         "id": 34
       },
-      {
-        "title": "iPhone 16",
+        {
+          "title": "iPhone 16",
           "description": "Идеальный силиконовый чехол, сочетающий стиль и защиту.",
           "colors": [
             {
               "color": "Черный",
               "material": "Силикон",
-              "id": 11.5
+              "id": 115,
+              "img": ""
             },
             {
               "color": "Белый",
               "material": "Силикон",
-              "id": 11.6
+              "id": 116,
+              "img": ""
             },
             {
               "color": "Розовый",
               "material": "Силикон",
-              "id": 11.7
+              "id": 117,
+              "img": ""
             },
             {
               "color": "Желтый",
               "material": "Силикон",
-              "id": 11.8
+              "id": 118,
+              "img": ""
             },
             {
               "color": "Синий",
               "material": "Силикон",
-              "id": 11.9
+              "id": 119,
+              "img": ""
             }
           ],
-        "id": 35
-      },
-      {
-        "title": "iPhone 16 Pro",
+          "id": 35
+        },
+        {
+          "title": "iPhone 16 Pro",
           "description": "Наиболее мощный силиконовый чехол с отличной защитой для iPhone 16 Pro.",
           "colors": [
             {
               "color": "Черный",
               "material": "Силикон",
-              "id": 12.0
+              "id": 120,
+              "img": ""
             },
             {
               "color": "Белый",
               "material": "Силикон",
-              "id": 12.1
+              "id": 121,
+              "img": ""
             },
             {
               "color": "Золотой",
               "material": "Силикон",
-              "id": 12.2
+              "id": 122,
+              "img": ""
             },
             {
               "color": "Синий",
               "material": "Силикон",
-              "id": 12.3
+              "id": 123,
+              "img": ""
             }
           ],
-        "id": 36
-      }
+          "id": 36
+        }
   ],
   "Glass_cases": [
-    {
-      "title": "iPhone 12",
+      {
+        "title": "iPhone 12",
         "description": "Элегантный стеклянный чехол, обеспечивающий защиту и стильный внешний вид.",
+        "price": 1500,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 12.4
+            "id": 12,
+            "img": "link_to_image_black_iphone12"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 12.5
+            "id": 13,
+            "img": "link_to_image_white_iphone12"
           },
           {
             "color": "Красный",
             "material": "Стекло",
-            "id": 12.6
-          },
-          {
-            "color": "Зеленый",
-            "material": "Стекло",
-            "id": 12.7
+            "id": 14,
+            "img": "link_to_image_red_iphone12"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 12.8
-          },
-          {
-            "color": "Фиолетовый",
-            "material": "Стекло",
-            "id": 12.9
+            "id": 16,
+            "img": "link_to_image_blue_iphone12"
           }
         ],
-      "id": 37
-    },
-    {
-      "title": "iPhone 12 Pro",
+        "id": 37
+      },
+      {
+        "title": "iPhone 12 Pro",
         "description": "Стеклянный чехол, который сочетает в себе стиль и надежную защиту.",
+        "price": 1700,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 13.0
+            "id": 18,
+            "img": "link_to_image_black_iphone12_pro"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 13.1
+            "id": 19,
+            "img": "link_to_image_white_iphone12_pro"
           },
           {
             "color": "Золотой",
             "material": "Стекло",
-            "id": 13.2
+            "id": 20,
+            "img": "link_to_image_gold_iphone12_pro"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 13.3
+            "id": 21,
+            "img": "link_to_image_blue_iphone12_pro"
           }
         ],
-      "id": 38
-    },
-    {
-      "title": "iPhone 12 Mini",
+        "id": 38
+      },
+      {
+        "title": "iPhone 12 Mini",
         "description": "Компактный стеклянный чехол с высокой степенью защиты.",
+        "price": 1400,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 13.4
+            "id": 22,
+            "img": "link_to_image_black_iphone12_mini"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 13.5
+            "id": 23,
+            "img": "link_to_image_white_iphone12_mini"
           },
           {
             "color": "Красный",
             "material": "Стекло",
-            "id": 13.6
-          },
-          {
-            "color": "Зеленый",
-            "material": "Стекло",
-            "id": 13.7
+            "id": 24,
+            "img": "link_to_image_red_iphone12_mini"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 13.8
-          },
-          {
-            "color": "Фиолетовый",
-            "material": "Стекло",
-            "id": 13.9
+            "id": 26,
+            "img": "link_to_image_blue_iphone12_mini"
           }
         ],
-      "id": 39
-    },
-    {
-      "title": "iPhone 13",
+        "id": 39
+      },
+      {
+        "title": "iPhone 13",
         "description": "Стеклянный чехол с защищенной поверхностью и стильным дизайном.",
+        "price": 1600,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 14.0
+            "id": 28,
+            "img": "link_to_image_black_iphone13"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 14.1
+            "id": 29,
+            "img": "link_to_image_white_iphone13"
           },
           {
             "color": "Красный",
             "material": "Стекло",
-            "id": 14.2
-          },
-          {
-            "color": "Зеленый",
-            "material": "Стекло",
-            "id": 14.3
+            "id": 30,
+            "img": "link_to_image_red_iphone13"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 14.4
+            "id": 32,
+            "img": "link_to_image_blue_iphone13"
           }
         ],
-      "id": 40
-    },
-    {
-      "title": "iPhone 13 Pro",
+        "id": 40
+      },
+      {
+        "title": "iPhone 13 Pro",
         "description": "Премиум стеклянный чехол с высококачественной защитой.",
+        "price": 1800,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 14.5
+            "id": 33,
+            "img": "link_to_image_black_iphone13_pro"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 14.6
+            "id": 34,
+            "img": "link_to_image_white_iphone13_pro"
           },
           {
             "color": "Золотой",
             "material": "Стекло",
-            "id": 14.7
+            "id": 35,
+            "img": "link_to_image_gold_iphone13_pro"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 14.8
+            "id": 36,
+            "img": "link_to_image_blue_iphone13_pro"
           }
         ],
-      "id": 41
-    },
-    {
-      "title": "iPhone 13 Mini",
+        "id": 41
+      },
+      {
+        "title": "iPhone 13 Mini",
         "description": "Компактный стеклянный чехол, сочетающий защиту и стиль.",
+        "price": 1500,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 14.9
+            "id": 37,
+            "img": "link_to_image_black_iphone13_mini"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 15.0
+            "id": 38,
+            "img": "link_to_image_white_iphone13_mini"
           },
           {
             "color": "Красный",
             "material": "Стекло",
-            "id": 15.1
-          },
-          {
-            "color": "Зеленый",
-            "material": "Стекло",
-            "id": 15.2
+            "id": 39,
+            "img": "link_to_image_red_iphone13_mini"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 15.3
+            "id": 41,
+            "img": "link_to_image_blue_iphone13_mini"
           }
         ],
-      "id": 42
-    },
-    {
-      "title": "iPhone 14",
-        "description": "Стеклянный чехол, обеспечивающий защиту и стильный внешний вид.",
+        "id": 42
+      },
+      {
+        "title": "iPhone 14",
+        "description": "Элегантный и стильный чехол с отличной защитой для вашего iPhone.",
+        "price": 2000,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 15.4
+            "id": 42,
+            "img": "link_to_image_black_iphone14"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 15.5
+            "id": 43,
+            "img": "link_to_image_white_iphone14"
           },
           {
             "color": "Красный",
             "material": "Стекло",
-            "id": 15.6
+            "id": 44,
+            "img": "link_to_image_red_iphone14"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 15.7
-          },
-          {
-            "color": "Фиолетовый",
-            "material": "Стекло",
-            "id": 15.8
+            "id": 46,
+            "img": "link_to_image_blue_iphone14"
           }
         ],
-      "id": 43
-    },
-    {
-      "title": "iPhone 14 Pro",
-        "description": "Стеклянный чехол с высокой защитой и элегантным дизайном.",
+        "id": 43
+      },
+      {
+        "title": "iPhone 14 Pro",
+        "description": "Высококачественная защита для вашего iPhone 14 с премиум материалами.",
+        "price": 2200,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 15.9
+            "id": 47,
+            "img": "link_to_image_black_iphone14_pro"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 16.0
+            "id": 48,
+            "img": "link_to_image_white_iphone14_pro"
           },
           {
             "color": "Золотой",
             "material": "Стекло",
-            "id": 16.1
-          },
-          {
-            "color": "Фиолетовый",
-            "material": "Стекло",
-            "id": 16.2
-          }
-        ],
-      "id": 44
-    },
-    {
-      "title": "iPhone 15",
-        "description": "Современный стеклянный чехол с отличной защитой.",
-        "colors": [
-          {
-            "color": "Черный",
-            "material": "Стекло",
-            "id": 16.3
-          },
-          {
-            "color": "Белый",
-            "material": "Стекло",
-            "id": 16.4
-          },
-          {
-            "color": "Розовый",
-            "material": "Стекло",
-            "id": 16.5
-          },
-          {
-            "color": "Желтый",
-            "material": "Стекло",
-            "id": 16.6
-          },
-          {
-            "color": "Зеленый",
-            "material": "Стекло",
-            "id": 16.7
-          }
-        ],
-      "id": 45
-    },
-    {
-      "title": "iPhone 15 Pro",
-        "description": "Премиум стеклянный чехол с элегантным дизайном и защитой.",
-        "colors": [
-          {
-            "color": "Черный",
-            "material": "Стекло",
-            "id": 16.8
-          },
-          {
-            "color": "Белый",
-            "material": "Стекло",
-            "id": 16.9
-          },
-          {
-            "color": "Бежевый",
-            "material": "Стекло",
-            "id": 17.0
+            "id": 49,
+            "img": "link_to_image_gold_iphone14_pro"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 17.1
+            "id": 50,
+            "img": "link_to_image_blue_iphone14_pro"
           }
         ],
-      "id": 46
-    },
-    {
-      "title": "iPhone 16",
-        "description": "Идеальный стеклянный чехол, сочетающий стиль и защиту.",
+        "id": 44
+      },
+      {
+        "title": "iPhone 15",
+        "description": "Современные технологии и защита для вашего iPhone 15.",
+        "price": 2300,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 17.2
+            "id": 51,
+            "img": "link_to_image_black_iphone15"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 17.3
+            "id": 52,
+            "img": "link_to_image_white_iphone15"
           },
           {
-            "color": "Розовый",
+            "color": "Красный",
             "material": "Стекло",
-            "id": 17.4
-          },
-          {
-            "color": "Желтый",
-            "material": "Стекло",
-            "id": 17.5
+            "id": 53,
+            "img": "link_to_image_red_iphone15"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 17.6
+            "id": 55,
+            "img": "link_to_image_blue_iphone15"
           }
         ],
-      "id": 47
-    },
-    {
-      "title": "iPhone 16 Pro",
-        "description": "Наиболее мощный стеклянный чехол с отличной защитой для iPhone 16 Pro.",
+        "id": 45
+      },
+      {
+        "title": "iPhone 15 Pro",
+        "description": "Премиум чехол с высокой степенью защиты для вашего iPhone 15.",
+        "price": 2500,
         "colors": [
           {
             "color": "Черный",
             "material": "Стекло",
-            "id": 17.7
+            "id": 56,
+            "img": "link_to_image_black_iphone15_pro"
           },
           {
             "color": "Белый",
             "material": "Стекло",
-            "id": 17.8
+            "id": 57,
+            "img": "link_to_image_white_iphone15_pro"
           },
           {
             "color": "Золотой",
             "material": "Стекло",
-            "id": 17.9
+            "id": 58,
+            "img": "link_to_image_gold_iphone15_pro"
           },
           {
             "color": "Синий",
             "material": "Стекло",
-            "id": 18.0
+            "id": 59,
+            "img": "link_to_image_blue_iphone15_pro"
           }
         ],
-      "id": 48
-    }
-  ],
+        "id": 46
+      },
+        {
+          "title": "iPhone 16",
+          "description": "Стильный и мощный iPhone 16 с новыми возможностями и улучшенной защитой.",
+          "price": 2400,
+          "colors": [
+            {
+              "color": "Черный",
+              "material": "Стекло",
+              "id": 60,
+              "img": "link_to_image_black_iphone16"
+            },
+            {
+              "color": "Белый",
+              "material": "Стекло",
+              "id": 61,
+              "img": "link_to_image_white_iphone16"
+            },
+            {
+              "color": "Красный",
+              "material": "Стекло",
+              "id": 62,
+              "img": "link_to_image_red_iphone16"
+            },
+            {
+              "color": "Синий",
+              "material": "Стекло",
+              "id": 64,
+              "img": "link_to_image_blue_iphone16"
+            }
+          ],
+          "id": 47
+        },
+        {
+          "title": "iPhone 16 Pro",
+          "description": "Высококлассный iPhone 16 Pro с улучшенной камерой и защитой для максимальной производительности.",
+          "price": 2800,
+          "colors": [
+            {
+              "color": "Черный",
+              "material": "Стекло",
+              "id": 65,
+              "img": "link_to_image_black_iphone16_pro"
+            },
+            {
+              "color": "Белый",
+              "material": "Стекло",
+              "id": 66,
+              "img": "link_to_image_white_iphone16_pro"
+            },
+            {
+              "color": "Золотой",
+              "material": "Стекло",
+              "id": 67,
+              "img": "link_to_image_gold_iphone16_pro"
+            },
+            {
+              "color": "Синий",
+              "material": "Стекло",
+              "id": 68,
+              "img": "link_to_image_blue_iphone16_pro"
+            }
+          ],
+          "id": 48
+        }
+    ],
   "wired_headphones": [
         {
           "name": "Apple EarPods",
