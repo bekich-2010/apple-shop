@@ -404,25 +404,25 @@
           "color": "Черный",
           "id": 11,
           "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg",
-          "price": "3500"
+          "price": 3500
         },
         {
           "color": "Белый",
           "id": 12,
           "img": "https://caseroom.in.ua/image/cache/catalog/demo/product/00000043601_2/00000043601_2_0-1000x1000.jpg",
-          "price": "3500"
+          "price": 3500
         },
         {
           "color": "Красный",
           "id": 13,
           "img": "https://www.istore.ua/upload/iblock/fd9/leather_mag_safe_for_iphone_12_pro_max_red_1_.jpg",
-          "price": "3800"
+          "price": 3800
         },
         {
           "color": "Синий",
           "id": 15,
           "img": "https://avatars.mds.yandex.net/i?id=8522b4e10bd4fa76e4e036781b89d8650e1e4756-5477018-images-thumbs&n=13",
-          "price": "3700"
+          "price": 3700
         }
       ],
       "id": 13
@@ -436,25 +436,25 @@
           "color": "Черный",
           "id": 17,
           "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg",
-          "price": "3600"
+          "price": 3600
         },
         {
           "color": "Белый",
           "id": 18,
           "img": "https://basket-10.wbbasket.ru/vol1488/part148829/148829438/images/big/1.webp",
-          "price": "3600"
+          "price": 3600
         },
         {
           "color": "Золотой",
           "id": 19,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNM_7mbhS2nr5H-8Eu0xpT9du8Phu0qahjA&s",
-          "price": "4000"
+          "price": 4000
         },
         {
           "color": "Синий",
           "id": 20,
           "img": "https://technolove.ru/upload/iblock/419/magsafe_kojablue2.jpg",
-          "price": "3800"
+          "price": 3800
         }
       ],
       "id": 14
@@ -468,25 +468,25 @@
           "color": "Черный",
           "id": 21,
           "img": "https://fotomix.by/image/cache/catalog/photo/product-photo/Apple/apple-access/magsafe-leather-case/iphone-12-mini/12-mini-black-2-600x600.jpg",
-          "price": "3400"
+          "price": 3400
         },
         {
           "color": "Белый",
           "id": 22,
           "img": "https://imagnsk.ru/image/cache/catalog/product-13505-600x600.jpeg",
-          "price": "3400"
+          "price":3400
         },
         {
           "color": "Красный",
           "id": 23,
           "img": "https://basket-02.wbbasket.ru/vol158/part15880/15880253/images/big/1.webp",
-          "price": "3800"
+          "price": 3800
         },
         {
           "color": "Синий",
           "id": 25,
           "img": "https://images.biggeek.ru/1/435/5ff3/12678-278MHK83.jpeg",
-          "price": "3700"
+          "price": 3700
         }
       ],
       "id": 15
@@ -500,25 +500,25 @@
           "color": "Черный",
           "id": 27,
           "img": "https://www.myphone.kg/files/media/14/14136.jpeg",
-          "price": "3500"
+          "price": 3500
         },
         {
           "color": "Белый",
           "id": 28,
           "img": "https://basket-10.wbbasket.ru/vol1491/part149113/149113373/images/big/1.webp",
-          "price": "3500"
+          "price": 3500
         },
         {
           "color": "Красный",
           "id": 29,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbroLJ7Gsrp1z9Sx7HKSLranN25n6I0vOmXA&s",
-          "price": "3800"
+          "price": 3800
         },
         {
           "color": "Синий",
           "id": 31,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IChlhcfTfbkBVu87MKy5rfELc7On7frkIw&s",
-          "price": "3700"
+          "price": 3700
         }
       ],
       "id": 16
@@ -532,25 +532,25 @@
           "color": "Черный",
           "id": 32,
           "img": "https://www.myphone.kg/files/media/14/14136.jpeg",
-          "price": "3600"
+          "price": 3600
         },
         {
           "color": "Белый",
           "id": 33,
           "img": "https://basket-10.wbbasket.ru/vol1491/part149113/149113373/images/big/1.webp",
-          "price": "3600"
+          "price": 3600
         },
         {
           "color": "Золотой",
           "id": 34,
           "img": "https://shop.9282922.ru/upload/iblock/8ff/8ffe8db7ae5c6a3fa7052599e1131ff2.jpeg",
-          "price": "4000"
+          "price": 4000
         },
         {
           "color": "Синий",
           "id": 35,
           "img": "https://applepack.ru/wa-data/public/shop/products/19/85/18519/images/63402/63402.600.jpg",
-          "price": "3800"
+          "price":3800
         }
       ],
       "id": 17
@@ -564,19 +564,19 @@
           "color": "Черный",
           "id": 36,
           "img": "https://images.biggeek.ru/1/435/22e9/14835-517MM0M3.jpeg",
-          "price": "3400"
+          "price": 3400
         },
         {
           "color": "Бежевый",
           "id": 37,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDCzxtSdbXlF5Tsh_HGUxxH_XrgLFGFrkWg&s",
-          "price": "3400"
+          "price": 3400
         },
         {
           "color": "Красный",
           "id": 38,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDCzxtSdbXlF5Tsh_HGUxxH_XrgLFGFrkWg&s",
-          "price": "3500"
+          "price": 3500
         }
       ],
       "id": 18
@@ -589,26 +589,29 @@
           {
             "color": "Черный",
             "id": 46,
+            "price": 2890,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLeOJ7MrrIL0KIqTyRScaRKMrerSpm4qXxg&s"
           },
           {
             "color": "Белый",
             "id": 47,
+            "price": 2890,
             "img": "https://best-magazin.com/image/cache/catalog/product/APPLE_acsessuare/iPhone/kzdoo/kzdoo-mag-noble-iphone-14-pro-beliy-800x800.jpg"
           },
           {
             "color": "Золотой",
             "id": 48,
+            "price": 2890,
             "img": "https://ir.ozone.ru/s3/multimedia-y/c1000/6481993090.jpg"
           },
           {
             "color": "Синий",
             "id": 49,
+            "price": 2890,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCEPpkeQXMGoK48ti-fyIyhlAjx9mK1h6mg&s"
           }
         ],
-        "id": 20,
-        "price": 2890
+        "id": 20
       },
       {
         "title": "iPhone 15",
@@ -618,26 +621,29 @@
           {
             "color": "Черный",
             "id": 50,
+            "price": 3150,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRelsunDjmNj0k9TPywxa6vN-9S1E4n3JBw&s"
           },
           {
             "color": "Белый",
             "id": 51,
+            "price": 3150,
             "img": "https://images.biggeek.ru/1/435/7ca4/24925-26leather-back-cover-clay-back-cover-decoded-bags-iphone-15-pro-max-376314.jpg.jpg"
           },
           {
             "color": "Красный",
             "id": 53,
+            "price": 3150,
             "img": "https://basket-15.wbbasket.ru/vol2320/part232071/232071189/images/big/1.webp"
           },
           {
             "color": "Синий",
             "id": 54,
+            "price": 3150,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFdJ38fl0PxffFngfLxvWnarEc7ORZDI31Q&s"
           }
         ],
-        "id": 21,
-        "price": 3150
+        "id": 21
       },
       {
         "title": "iPhone 15 Pro",
@@ -647,26 +653,29 @@
           {
             "color": "Черный",
             "id": 55,
+            "price": 4120,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE_vS2gjnYuNHNzUH4KeW1OilCtQAxG-HXA&s"
           },
           {
             "color": "Белый",
             "id": 56,
+            "price": 4120,
             "img": "https://ir.ozone.ru/s3/multimedia-q/c1000/6836968322.jpg"
           },
           {
             "color": "Красный",
             "id": 57,
+            "price": 4120,
             "img": "https://www.i100.ru/wa-data/public/shop/products/15/71/7115/images/34772/34772.750.jpg"
           },
           {
             "color": "Синий",
             "id": 58,
+            "price": 4120,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XPxPQLNkQ3t5rORk8rtxKINtx8SFyNkxgQ&s"
           }
         ],
-        "id": 22,
-        "price": 4120
+        "id": 22
       },
       {
         "title": "iPhone 16",
@@ -676,26 +685,29 @@
           {
             "color": "Черный",
             "id": 59,
+            "price": 2780,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4dnQi5RoTXDAVHK4ut8IchT0FB_mUhskTQ&s"
           },
           {
             "color": "Белый",
             "id": 60,
+            "price": 2780,
             "img": "https://prochehol.com.ua/wa-data/public/shop/products/92/33/53392/images/390640/390640.970.jpg"
           },
           {
             "color": "Красный",
             "id": 61,
+            "price": 2780,
             "img": "https://wookie.com.ua/images/23/chekhol-knizhka-khazneh-retro-wallet-dlya-apple-iphone-16165672-12598263785920_small10.jpg"
           },
           {
             "color": "Синий",
             "id": 62,
+            "price": 2780,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-j3KVO96oY31yJMSXURITepI6ciOh5uddAQ&s"
           }
         ],
-        "id": 23,
-        "price": 2780
+        "id": 23
       },
       {
         "title": "iPhone 16 Pro",
@@ -705,26 +717,29 @@
           {
             "color": "Черный",
             "id": 64,
+            "price": 4990,
             "img": "https://img.myipadbox.com/upload/store/product_l/EDA004834005A.jpg"
           },
           {
             "color": "Белый",
             "id": 65,
+            "price": 4990,
             "img": "https://img.myipadbox.com/upload/store/detail_l/EDA004896606B_3.jpg"
           },
           {
             "color": "Золотой",
             "id": 66,
+            "price": 4990,
             "img": "https://wookie.com.ua/content/images/29/chekhol-knizhka-khazneh-wallet-cover-dlya-apple-iphone-16-pro-max165828-34331806872958_small11.jpg"
           },
           {
             "color": "Синий",
             "id": 67,
+            "price": 4990,
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXBSMryekiEbCJl9CIo-2nQv_Jz4sg2ySm2Q&s"
           }
         ],
-        "id": 24,
-        "price": 4990
+        "id": 24
       }
     ],
   "silicone_cases": [

@@ -23,32 +23,32 @@ const LeatherCases = () => {
                 <div className="leathercases__row">
                     {cases.map(item => (
                         <div className="leathercases__item" key={item.id}>
-                            <h4 className="leathercases__item-title">{item.title}</h4>
-                            <p className="leathercases__material">{item.material}</p>
-                            <p className="leathercases__des">{item.description}</p>
+                            <h4 className="leathercases__subtitle">{item.title}</h4>
                             <div className="leathercases__colors">
                                 <Swiper
                                     modules={[Navigation, Pagination]}
                                     navigation
-                                    pagination={{ clickable: true }}
+                                    pagination={{clickable: true}}
                                     spaceBetween={10}
                                     slidesPerView={1}
                                 >
-                                    {item.colors.map(color => (
-                                        <SwiperSlide key={color.id}>
+                                    {item.colors.map(item => (
+                                        <SwiperSlide key={item.id}>
                                             <div className="leathercases__color-item">
                                                 <img
-                                                    src={color.img}
-                                                    alt={color.color}
+                                                    src={item.img}
+                                                    alt={item.color}
                                                     className="leathercases__color-img"
                                                 />
-                                                <p className="leathercases__color-name">{color.color}</p>
-                                                <p className="leathercases__color-price">{color.price}₽</p>
+                                                <p className="leathercases__color-name">{item.color}</p>
+                                                <p className="leathercases__color-price">{item.price}₽</p>
                                             </div>
                                         </SwiperSlide>
                                     ))}
                                 </Swiper>
+                                <p className="leathercases__material">{item.material}</p>
                             </div>
+                            <p className="leathercases__des">{item.description}</p>
                         </div>
                     ))}
                 </div>
