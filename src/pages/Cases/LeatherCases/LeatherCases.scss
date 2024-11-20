@@ -22,16 +22,21 @@
     font-family: Montserrat, sans-serif;
     font-size: 15px;
   }
-  &__material {
+  &__material{
     color: rgba(0, 0, 0);
     font-family: Montserrat, sans-serif;
     font-size: 15px;
+    align-self: end;
   }
-
+  &__colors{
+    height: 240px;
+    column-gap: 30px;
+  }
   &__color {
     color: rgba(0, 0, 0);
     font-family: Montserrat, sans-serif;
     font-size: 15px;
+    column-gap: 20px;
   }
   &__color-item{
     display: grid;

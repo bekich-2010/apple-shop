@@ -6,6 +6,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { Navigation, Pagination } from "swiper/modules";
 import "./LeatherCases.scss";
+import {useNavigate, useParams} from "react-router-dom";
 
 const LeatherCases = () => {
     const [cases, setCases] = useState([]);
@@ -15,7 +16,8 @@ const LeatherCases = () => {
             .then(res => setCases(res.data))
             .catch(err => console.error("Ошибка загрузки данных:", err));
     }, []);
-
+    const params = useParams();
+    const nav = useNavigate()
     return (
         <section className="leathercases">
             <div className="container">
@@ -24,7 +26,9 @@ const LeatherCases = () => {
                     {cases.map(item => (
                         <div className="leathercases__item" key={item.id}>
                             <h4 className="leathercases__subtitle">{item.title}</h4>
-                            <div className="leathercases__colors">
+                            <div onClick={() => nav(`product/:${item.id}`)}
+                                 className="leathercases__colors">
+
                                 <Swiper
                                     modules={[Navigation, Pagination]}
                                     navigation

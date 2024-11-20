@@ -25,7 +25,7 @@ const WiredHeadphones = () => {
                     {
                         earphones.map((item) => (
                             <div className="wiredheadphones__item" key={item.id}>
-                                <img onClick={() => nav(`/earphones/${item.id}`)} className="wiredheadphones__img" src={item.img} alt=""/>
+                                <img onClick={() => nav(`/product/:${item.id}`)} className="wiredheadphones__img" src={item.img} alt=""/>
                                 <h3 className="wiredheadphones__subtitle">{item.name}</h3>
                                 <div className="wiredheadphones__grade">
                                     <img src={logo} alt="" className="wiredheadphones__star"/>

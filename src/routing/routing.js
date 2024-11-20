@@ -12,6 +12,9 @@ import Terms from "../pages/Terms/Terms";
 import Contacts from "../pages/Contacts/Contacts";
 import Register from "../pages/Register/Register";
 import Login from "../pages/Login/Login";
+import LeatherCasesOneProduct from "../pages/OneProduct/LeatherCasesOneProduct";
+import SiliconCasesOneProduct from "../pages/OneProduct/SiliconCasesOneProduct";
+import GlassCasesOneProduct from "../pages/OneProduct/GlassCasesOneProduct";
 
 const routing =createBrowserRouter(
     [
@@ -32,8 +35,20 @@ const routing =createBrowserRouter(
                     element: <Favorites/>
                 },
                 {
-                    path: 'product:id',
+                    path: 'product/:id',
                     element: <OneProduct/>
+                },
+                {
+                    path: "leather-cases/product/:id",
+                    element: <LeatherCasesOneProduct/>
+                },
+                {
+                    path: "silicon-cases/product/:id",
+                    element: <SiliconCasesOneProduct/>
+                },
+                {
+                    path: "glass-cases/product/:id",
+                    element: <GlassCasesOneProduct/>
                 },
                 {
                     path: "glass-cases",

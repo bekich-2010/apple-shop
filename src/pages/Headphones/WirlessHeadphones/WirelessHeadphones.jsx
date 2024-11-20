@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import './WirelessHeadphones.scss'
 import logo from '../../Headphones/star.jpg'
+import {useNavigate} from "react-router-dom";
 
 const WirelessHeadphones = () => {
 
@@ -11,6 +12,7 @@ const WirelessHeadphones = () => {
         axios('http://localhost:8080/wireless_headphones')
             .then(res => setEarphones(res.data))
     }, [])
+    const nav = useNavigate();
     return (
         <section className="wirelessheadphones">
             <div className="container">
@@ -19,7 +21,7 @@ const WirelessHeadphones = () => {
                     {
                         earphones.map((item) => (
                             <div key={item.id} className="wirelessheadphones__item">
-                                <img className="wirelessheadphones__img" src={item.img} alt=""/>
+                                <img onClick={() => nav(`product/:${item.id}`)} className="wirelessheadphones__img" src={item.img} alt=""/>
                                 <h3 className="wirelessheadphones__subtitle">{item.name}</h3>
                                 <p className="wirelessheadphones__price">{item.price}</p>
                                 <div className="wirelessheadphones__grade">
