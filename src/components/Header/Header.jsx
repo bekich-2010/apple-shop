@@ -8,6 +8,7 @@ import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import AccordionDetails from "@mui/material/AccordionDetails";
+import CartLink from "./CartLink";
 
 const Header = () => {
     const [active, setActive] = useState(false)
@@ -84,7 +85,7 @@ const Header = () => {
                     </nav>
                     <div className="header__cartfav">
                         <Link to="/cart">
-                            <IoCartOutline className="header__cart"/>
+                            <CartLink/>
                         </Link>
                         <Link to='/favorites'>
                             <MdFavoriteBorder className="header__fav"/>
