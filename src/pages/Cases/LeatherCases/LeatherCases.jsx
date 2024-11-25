@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {useEffect, useState } from "react";
 import axios from "axios";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -14,7 +14,6 @@ const LeatherCases = () => {
     useEffect(() => {
         axios("http://localhost:8080/leather_cases")
             .then(res => setCases(res.data))
-            .catch(err => console.error("Ошибка загрузки данных:", err));
     }, []);
     const params = useParams();
     const nav = useNavigate()
@@ -26,7 +25,7 @@ const LeatherCases = () => {
                     {cases.map(item => (
                         <div className="leathercases__item" key={item.id}>
                             <h4 className="leathercases__subtitle">{item.title}</h4>
-                            <div onClick={() => nav(`product/:${item.id}`)}
+                            <div onClick={() => nav(`/product/${item.id}`)}
                                  className="leathercases__colors">
 
                                 <Swiper
@@ -36,16 +35,16 @@ const LeatherCases = () => {
                                     spaceBetween={10}
                                     slidesPerView={1}
                                 >
-                                    {item.colors.map(item => (
-                                        <SwiperSlide key={item.id}>
+                                    {item.colors.map(el => (
+                                        <SwiperSlide key={el.id}>
                                             <div className="leathercases__color-item">
                                                 <img
-                                                    src={item.img}
-                                                    alt={item.color}
+                                                    src={el.img}
+                                                    alt={el.color}
                                                     className="leathercases__color-img"
                                                 />
-                                                <p className="leathercases__color-name">{item.color}</p>
-                                                <p className="leathercases__color-price">{item.price}₽</p>
+                                                <p className="leathercases__color-name">{el.color}</p>
+                                                <p className="leathercases__color-price">{el.price}₽</p>
                                             </div>
                                         </SwiperSlide>
                                     ))}

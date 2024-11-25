@@ -3,6 +3,8 @@ import axios from "axios";
 import './WiredHeadphones.scss'
 import {useParams, useNavigate} from 'react-router-dom'
 import logo from '../../Headphones/star.jpg'
+import {useDispatch, useSelector} from "react-redux";
+import {addCart, removeCart} from "../../../store/reducers/carts";
 
 const WiredHeadphones = () => {
 
@@ -12,11 +14,10 @@ const WiredHeadphones = () => {
         axios('http://localhost:8080/wired_headphones')
             .then((res) => setEarphones(res.data))
     }, []);
-
     const params = useParams()
-
     const nav = useNavigate()
-
+    const dispatch = useDispatch();
+    const carts = useSelector(state => state.carts)
     return (
         <section className="wiredheadphones">
             <div className="container">
@@ -32,6 +33,15 @@ const WiredHeadphones = () => {
                                     <span>4.7</span>
                                 </div>
                                 <p className="wiredheadphones__price">{item.price}</p>
+                                {
+                                    carts.data.some(el => el.id == item.id) ?
+                                        <div className="wirelessheadphones__cart">
+                                            <button onClick={() => dispatch(removeCart(item.id))}>-</button>
+                                            <input value={carts.data.find(el => el.id === item.id).count} type="text"/>
+                                            <button onClick={() => dispatch(addCart(item.id))}>+</button>
+                                        </div> : <button onClick={() => dispatch(addCart(item.id))}>add to cart</button>
+                                }
+
                             </div>
                         ))
                     }

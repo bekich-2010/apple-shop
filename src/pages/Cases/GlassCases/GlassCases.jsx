@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import logo from "../GlassCases/case.webp";
 import './GlassCases.scss'
+import {useNavigate} from "react-router-dom";
 
 const GlassCases = () => {
     const [cases, setCases] = useState([])
@@ -10,7 +11,7 @@ const GlassCases = () => {
         axios('http://localhost:8080/Glass_cases')
             .then(res => setCases(res.data))
     }, [])
-
+    const nav = useNavigate()
     return (
         <div className="glasscases">
             <div className="container">
@@ -20,7 +21,7 @@ const GlassCases = () => {
                         cases.map((item) => (
                             <div className="glasscases__item" key={item.id}>
                                 <h4 className="glasscases__item-title">{item.title}</h4>
-                                <img src={logo} alt="" className="glasscases__img"/>
+                                <img onClick={() => nav(`product/:${item.id}`)} src={logo} alt="" className="glasscases__img"/>
                                 <p className="glasscases__color">Прозрачный</p>
                                 <p className="glasscases__material">Стекло</p>
                                 <p className="glasscases__des">{item.description}</p>

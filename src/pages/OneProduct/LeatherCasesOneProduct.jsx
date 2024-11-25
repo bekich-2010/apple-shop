@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux';
-import {addCart} from "../../store/reducers/Carts";
+import {addCart} from "../../store/reducers/carts";
 
 const LeatherCasesOneProduct = () => {
     const dispatch = useDispatch();
