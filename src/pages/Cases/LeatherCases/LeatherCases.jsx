@@ -22,12 +22,12 @@ const LeatherCases = () => {
             <div className="container">
                 <h1 className="leathercases__title">Кожаные чехлы</h1>
                 <div className="leathercases__row">
-                    {cases.map(item => (
-                        <div className="leathercases__item" key={item.id}>
-                            <h4 className="leathercases__subtitle">{item.title}</h4>
-                            <div onClick={() => nav(`/product/${item.id}`)}
-                                 className="leathercases__colors">
-
+                    {
+                        cases.map((item) => (
+                            <div className="leathercases__item" key={item.id}>
+                                <h4 className="leathercases__item-title">{item.title}</h4>
+                                {/*<img onClick={() => nav(`/product/${item.id}`)} src={logo} alt="" className="leathercases__img"/>*/}
+                                {/*<p className="siliconcases__color">Синий</p>*/}
                                 <Swiper
                                     modules={[Navigation, Pagination]}
                                     navigation
@@ -38,10 +38,10 @@ const LeatherCases = () => {
                                     {item.colors.map(el => (
                                         <SwiperSlide key={el.id}>
                                             <div className="leathercases__color-item">
-                                                <img
-                                                    src={el.img}
-                                                    alt={el.color}
-                                                    className="leathercases__color-img"
+                                                <img onClick={() => nav(`/product/${item.id}`)}
+                                                     src={el.img}
+                                                     alt={el.color}
+                                                     className="leathercases__color-img"
                                                 />
                                                 <p className="leathercases__color-name">{el.color}</p>
                                                 <p className="leathercases__color-price">{el.price}₽</p>
@@ -50,10 +50,10 @@ const LeatherCases = () => {
                                     ))}
                                 </Swiper>
                                 <p className="leathercases__material">{item.material}</p>
+                                <p className="leathercases__des">{item.description}</p>
                             </div>
-                            <p className="leathercases__des">{item.description}</p>
-                        </div>
-                    ))}
+                        ))
+                    }
                 </div>
             </div>
         </section>

@@ -1174,29 +1174,29 @@
       {
         "title": "iPhone 12",
         "description": "Элегантный стеклянный чехол, обеспечивающий защиту и стильный внешний вид.",
-        "price": 1500,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1500,
             "id": 12,
             "img": "link_to_image_black_iphone12"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
             "id": 13,
+            "price": 1500,
             "img": "link_to_image_white_iphone12"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 1500,
             "id": 14,
             "img": "link_to_image_red_iphone12"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1500,
             "id": 16,
             "img": "link_to_image_blue_iphone12"
           }
@@ -1206,29 +1206,29 @@
       {
         "title": "iPhone 12 Pro",
         "description": "Стеклянный чехол, который сочетает в себе стиль и надежную защиту.",
-        "price": 1700,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1700,
             "id": 18,
             "img": "link_to_image_black_iphone12_pro"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 1700,
             "id": 19,
             "img": "link_to_image_white_iphone12_pro"
           },
           {
             "color": "Золотой",
-            "material": "Стекло",
+            "price": 1700,
             "id": 20,
             "img": "link_to_image_gold_iphone12_pro"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1700,
             "id": 21,
             "img": "link_to_image_blue_iphone12_pro"
           }
@@ -1238,29 +1238,29 @@
       {
         "title": "iPhone 12 Mini",
         "description": "Компактный стеклянный чехол с высокой степенью защиты.",
-        "price": 1400,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1400,
             "id": 22,
             "img": "link_to_image_black_iphone12_mini"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 1400,
             "id": 23,
             "img": "link_to_image_white_iphone12_mini"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 1400,
             "id": 24,
             "img": "link_to_image_red_iphone12_mini"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1400,
             "id": 26,
             "img": "link_to_image_blue_iphone12_mini"
           }
@@ -1274,25 +1274,25 @@
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1400,
             "id": 28,
             "img": "link_to_image_black_iphone13"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 1400,
             "id": 29,
             "img": "link_to_image_white_iphone13"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 1400,
             "id": 30,
             "img": "link_to_image_red_iphone13"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1400,
             "id": 32,
             "img": "link_to_image_blue_iphone13"
           }
@@ -1302,29 +1302,29 @@
       {
         "title": "iPhone 13 Pro",
         "description": "Премиум стеклянный чехол с высококачественной защитой.",
-        "price": 1800,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1800,
             "id": 33,
             "img": "link_to_image_black_iphone13_pro"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 1800,
             "id": 34,
             "img": "link_to_image_white_iphone13_pro"
           },
           {
             "color": "Золотой",
-            "material": "Стекло",
+            "price": 1800,
             "id": 35,
             "img": "link_to_image_gold_iphone13_pro"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1800,
             "id": 36,
             "img": "link_to_image_blue_iphone13_pro"
           }
@@ -1334,29 +1334,29 @@
       {
         "title": "iPhone 13 Mini",
         "description": "Компактный стеклянный чехол, сочетающий защиту и стиль.",
-        "price": 1500,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 1500,
             "id": 37,
             "img": "link_to_image_black_iphone13_mini"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 1500,
             "id": 38,
             "img": "link_to_image_white_iphone13_mini"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 1500,
             "id": 39,
             "img": "link_to_image_red_iphone13_mini"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 1500,
             "id": 41,
             "img": "link_to_image_blue_iphone13_mini"
           }
@@ -1366,29 +1366,29 @@
       {
         "title": "iPhone 14",
         "description": "Элегантный и стильный чехол с отличной защитой для вашего iPhone.",
-        "price": 2000,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 2000,
             "id": 42,
             "img": "link_to_image_black_iphone14"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 2000,
             "id": 43,
             "img": "link_to_image_white_iphone14"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 2000,
             "id": 44,
             "img": "link_to_image_red_iphone14"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 2000,
             "id": 46,
             "img": "link_to_image_blue_iphone14"
           }
@@ -1398,29 +1398,29 @@
       {
         "title": "iPhone 14 Pro",
         "description": "Высококачественная защита для вашего iPhone 14 с премиум материалами.",
-        "price": 2200,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 2200,
             "id": 47,
             "img": "link_to_image_black_iphone14_pro"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 2200,
             "id": 48,
             "img": "link_to_image_white_iphone14_pro"
           },
           {
             "color": "Золотой",
-            "material": "Стекло",
+            "price": 2200,
             "id": 49,
             "img": "link_to_image_gold_iphone14_pro"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 2200,
             "id": 50,
             "img": "link_to_image_blue_iphone14_pro"
           }
@@ -1430,29 +1430,29 @@
       {
         "title": "iPhone 15",
         "description": "Современные технологии и защита для вашего iPhone 15.",
-        "price": 2300,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 2300,
             "id": 51,
             "img": "link_to_image_black_iphone15"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 2300,
             "id": 52,
             "img": "link_to_image_white_iphone15"
           },
           {
             "color": "Красный",
-            "material": "Стекло",
+            "price": 2300,
             "id": 53,
             "img": "link_to_image_red_iphone15"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 2300,
             "id": 55,
             "img": "link_to_image_blue_iphone15"
           }
@@ -1462,29 +1462,29 @@
       {
         "title": "iPhone 15 Pro",
         "description": "Премиум чехол с высокой степенью защиты для вашего iPhone 15.",
-        "price": 2500,
+        "material": "Стекло",
         "colors": [
           {
             "color": "Черный",
-            "material": "Стекло",
+            "price": 2500,
             "id": 56,
             "img": "link_to_image_black_iphone15_pro"
           },
           {
             "color": "Белый",
-            "material": "Стекло",
+            "price": 2500,
             "id": 57,
             "img": "link_to_image_white_iphone15_pro"
           },
           {
             "color": "Золотой",
-            "material": "Стекло",
+            "price": 2500,
             "id": 58,
             "img": "link_to_image_gold_iphone15_pro"
           },
           {
             "color": "Синий",
-            "material": "Стекло",
+            "price": 2500,
             "id": 59,
             "img": "link_to_image_blue_iphone15_pro"
           }
@@ -1494,29 +1494,29 @@
         {
           "title": "iPhone 16",
           "description": "Стильный и мощный iPhone 16 с новыми возможностями и улучшенной защитой.",
-          "price": 2400,
+          "material": "Стекло",
           "colors": [
             {
               "color": "Черный",
-              "material": "Стекло",
+              "price": 2400,
               "id": 60,
               "img": "link_to_image_black_iphone16"
             },
             {
               "color": "Белый",
-              "material": "Стекло",
+              "price": 2400,
               "id": 61,
               "img": "link_to_image_white_iphone16"
             },
             {
               "color": "Красный",
-              "material": "Стекло",
+              "price": 2400,
               "id": 62,
               "img": "link_to_image_red_iphone16"
             },
             {
               "color": "Синий",
-              "material": "Стекло",
+              "price": 2400,
               "id": 64,
               "img": "link_to_image_blue_iphone16"
             }
@@ -1526,29 +1526,29 @@
         {
           "title": "iPhone 16 Pro",
           "description": "Высококлассный iPhone 16 Pro с улучшенной камерой и защитой для максимальной производительности.",
-          "price": 2800,
+          "material": "Стекло",
           "colors": [
             {
               "color": "Черный",
-              "material": "Стекло",
+              "price": 2800,
               "id": 65,
               "img": "link_to_image_black_iphone16_pro"
             },
             {
               "color": "Белый",
-              "material": "Стекло",
+              "price": 2800,
               "id": 66,
               "img": "link_to_image_white_iphone16_pro"
             },
             {
               "color": "Золотой",
-              "material": "Стекло",
+              "price": 2800,
               "id": 67,
               "img": "link_to_image_gold_iphone16_pro"
             },
             {
               "color": "Синий",
-              "material": "Стекло",
+              "price": 2800,
               "id": 68,
               "img": "link_to_image_blue_iphone16_pro"
             }

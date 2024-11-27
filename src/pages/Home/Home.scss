@@ -2,28 +2,31 @@
   margin-bottom: 44px;
   &__adds{
     display: flex;
-    justify-content: space-between;
     width: 1110px;
     height: 197px;
     border-radius: 30px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
-    background: rgb(16, 16, 16);
+    background: rgb(0, 0, 0);
     overflow: hidden;
-    padding: 70px 150px;
-    position: relative;
+    padding: 0 50px;
+    align-items: center;
+    justify-content: space-around;
   }
   &__title{
     color: rgb(255, 255, 255);
     font-family: Montserrat, sans-serif;
     font-size: 30px;
+    //align-self: end;
   }
   &__img{
-    width: 241px;
+    width: 281px;
     height: 246px;
     background: black;
-    position: absolute;
-    right: 150px;
-    top: 10px;
+    //position: absolute;
+    //right: 150px;
+    //top: -110px;
+    //justify-self: right;
+    //align-self: start;
   }
 }
 

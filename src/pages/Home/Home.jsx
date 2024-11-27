@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import logo from '../../assets/iphone.jpg'
+import logo from '../../assets/maxresdefault.jpg'
 import logo1 from '../../assets/headphones-1.jpg'
 import logo2 from '../../assets/headphones2.jpg'
 import logo3 from '../../assets/headphones3.jpg'
