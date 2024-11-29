@@ -23,30 +23,23 @@ const OneProduct = (item) => {
     }, [])
 
     const isItemInCart = carts.data.some(el => el.id === item.id);
-
-
-            return (
-                <section className="product">
-                    <div className="container">
-                        <div className="product__main">
-
-                        </div>
-                        {
-                            isItemInCart ?
-                                <div>
-                                    <button onClick={() => dispatch(removeCart(item.id))}>-</button>
-                                    <input type="text" />
-                                    <button onClick={() => dispatch(addCart(item.id))}>+</button>
-                                </div> :
-                                <button onClick={() => dispatch(addCart(item.id))}>В корзину</button>
-                        }
-                    </div>
-                </section>
-            );
-
-
-
-
+    return (
+        <section className="product">
+            <div className="container">
+                <div className="product__main">
+                </div>
+                {
+                    isItemInCart ?
+                        <div>
+                            <button onClick={() => dispatch(removeCart(item.id))}>-</button>
+                            <input type="text" />
+                            <button onClick={() => dispatch(addCart(item.id))}>+</button>
+                        </div> :
+                        <button onClick={() => dispatch(addCart(item.id))}>В корзину</button>
+                }
+            </div>
+        </section>
+    );
 };
 
 export default OneProduct;

@@ -1,7 +1,7 @@
 import {createSlice} from "@reduxjs/toolkit";
 
 
-const reducers = createSlice({
+const changeFavorites = createSlice({
     name: 'users',
     initialState: {
         data: [],
@@ -9,9 +9,16 @@ const reducers = createSlice({
         error: null,
     },
     reducers: {
-
+        toggleFavorites: (state, action) => {
+            if (state.data.includes(action.payload)) {
+                state.data = state.data.filter(item => item.id !== action.payload)
+            } else{
+                state.data = [...state.data, action.payload]
+            }
+        }
     }
 
 })
 
-export default reducers.reducer
+export const {toggleFavorites} = changeFavorites.actions;
+export default changeFavorites.reducer

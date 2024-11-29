@@ -13,6 +13,8 @@ import Contacts from "../pages/Contacts/Contacts";
 import Register from "../pages/Register/Register";
 import Login from "../pages/Login/Login";
 
+import Phones from "../pages/Phones/Phones";
+
 const routing =createBrowserRouter(
     [
         {
@@ -22,6 +24,10 @@ const routing =createBrowserRouter(
                 {
                     path: "",
                     element: <Main/>
+                },
+                {
+                    path: "All phones",
+                    element: <Phones/>
                 },
                 {
                     path: "Cart",
