@@ -1,13 +1,12 @@
 import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import './WiredHeadphones.scss'
-import {useParams, useNavigate} from 'react-router-dom'
+import {useNavigate} from 'react-router-dom'
 import logo from '../../Headphones/star.jpg'
 import {useDispatch, useSelector} from "react-redux";
 import {addCart, removeCart} from "../../../store/reducers/carts";
 import { MdFavoriteBorder, MdFavorite } from "react-icons/md";
 import {toggleFavorites} from "../../../store/reducers/changeFavorites";
-import {getProducts} from "../../../store/reducers/products";
 
 const WiredHeadphones = () => {
 
@@ -17,14 +16,10 @@ const WiredHeadphones = () => {
         axios('http://localhost:8080/wired_headphones')
             .then((res) => setEarphones(res.data))
     }, []);
-    const params = useParams()
     const nav = useNavigate()
     const dispatch = useDispatch();
     const carts = useSelector(state => state.carts)
-    // const {data, error, filter, status} = useSelector(state => state.products)
-    // useEffect(() => {
-    //     dispatch(getProducts())
-    // },[])
+
     return (
         <section className="wiredheadphones">
             <div className="container">
@@ -39,7 +34,7 @@ const WiredHeadphones = () => {
                                             : <MdFavoriteBorder/>
                                     }
                                 </span>
-                                <img onClick={() => nav(`/product/:${item.id}`)} className="wiredheadphones__img" src={item.img} alt=""/>
+                                <img onClick={() => nav(`wired-headphone/product/${item.id}`)} className="wiredheadphones__img" src={item.img} alt=""/>
                                 <h3 className="wiredheadphones__subtitle">{item.name}</h3>
                                 <div className="wiredheadphones__grade">
                                     <img src={logo} alt="" className="wiredheadphones__star"/>
@@ -47,7 +42,7 @@ const WiredHeadphones = () => {
                                 </div>
                                 <p className="wiredheadphones__price">{item.price}</p>
                                 {
-                                    carts.data.some(el => el.id == item.id) ?
+                                    carts.data.some(el => el.id === item.id) ?
                                         <div className="wirelessheadphones__cart">
                                             <button onClick={() => dispatch(removeCart(item.id))}>-</button>
                                             <input value={carts.data.find(el => el.id === item.id).count} type="text"/>

@@ -6,17 +6,19 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { Navigation, Pagination } from "swiper/modules";
 import "./LeatherCases.scss";
-import {useNavigate, useParams} from "react-router-dom";
+import {Link} from "react-router-dom";
+import {toggleFavorites} from "../../../store/reducers/changeFavorites";
+import {MdFavorite, MdFavoriteBorder} from "react-icons/md";
+import {useDispatch, useSelector} from "react-redux";
 
 const LeatherCases = () => {
     const [cases, setCases] = useState([]);
-
+    const favorites = useSelector((state) => state.changeFavorites);
     useEffect(() => {
         axios("http://localhost:8080/leather_cases")
             .then(res => setCases(res.data))
     }, []);
-    const params = useParams();
-    const nav = useNavigate()
+    const dispatch = useDispatch();
     return (
         <section className="leathercases">
             <div className="container">
@@ -25,9 +27,16 @@ const LeatherCases = () => {
                     {
                         cases.map((item) => (
                             <div className="leathercases__item" key={item.id}>
-                                <h4 className="leathercases__item-title">{item.title}</h4>
-                                {/*<img onClick={() => nav(`/product/${item.id}`)} src={logo} alt="" className="leathercases__img"/>*/}
-                                {/*<p className="siliconcases__color">Синий</p>*/}
+                                <div className="leathercases__top">
+                                    <h4 className="leathercases__item-title">{item.title}</h4>
+                                    <span onClick={() => dispatch(toggleFavorites(item.id))}
+                                          className="leathercases__fav">
+                                    {
+                                        favorites.data.includes(item.id) ? <MdFavorite/>
+                                            : <MdFavoriteBorder/>
+                                    }
+                                </span>
+                                </div>
                                 <Swiper
                                     modules={[Navigation, Pagination]}
                                     navigation
@@ -38,13 +47,15 @@ const LeatherCases = () => {
                                     {item.colors.map(el => (
                                         <SwiperSlide key={el.id}>
                                             <div className="leathercases__color-item">
-                                                <img onClick={() => nav(`/product/${item.id}`)}
-                                                     src={el.img}
-                                                     alt={el.color}
-                                                     className="leathercases__color-img"
-                                                />
+                                                <Link className="leathercases__color-link" to={`product/${el.id}`}>
+                                                    <img
+                                                        src={el.img}
+                                                        alt={el.color}
+                                                        className="leathercases__color-img"
+                                                    />
+                                                </Link>
                                                 <p className="leathercases__color-name">{el.color}</p>
-                                                <p className="leathercases__color-price">{el.price}₽</p>
+                                                <p className="leathercases__color-price">{item.price}₽</p>
                                             </div>
                                         </SwiperSlide>
                                     ))}

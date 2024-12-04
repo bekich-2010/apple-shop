@@ -6,10 +6,10 @@ export const getProducts = createAsyncThunk(
     async (arg, {rejectWithValue}) => {
         try {
             const res = await axios('http://localhost:8080/Glass_cases', arg)
-                await axios('http://localhost:8080/Leather_cases', arg)
-                await axios('http://localhost:8080/silicone_cases', arg)
-                await axios('http://localhost:8080/wired_headphones', arg)
-                await axios('http://localhost:8080/wireless_headphones', arg)
+            await axios('http://localhost:8080/Leather_cases', arg)
+            await axios('http://localhost:8080/silicone_cases', arg)
+            await axios('http://localhost:8080/wired_headphones', arg)
+            await axios('http://localhost:8080/wireless_headphones', arg)
 
             if (res.status !== 200){
                 throw new Error('Ошибка при получении товаров')

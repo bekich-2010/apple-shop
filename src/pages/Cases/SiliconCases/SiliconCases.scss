@@ -11,7 +11,16 @@
     align-self: center;
     font-size: 15px;
   }
-
+  &__top{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  &__item-title{
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.7);
+  }
   &__title{
     font-size: 25px;
     font-family: Montserrat, sans-serif;
@@ -21,6 +30,7 @@
   &__color-price{
     font-family: Montserrat, sans-serif;
     font-size: 15px;
+    justify-self: center;
   }
   &__material{
     color: rgba(0, 0, 0);
@@ -32,24 +42,35 @@
     height: 240px;
     column-gap: 30px;
   }
+  &__color-name{
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    justify-self: center;
+  }
   &__color {
     color: rgba(0, 0, 0);
     font-family: Montserrat, sans-serif;
     font-size: 15px;
     column-gap: 20px;
+    &-link{
+      text-decoration: none;
+      display: grid;
+    }
   }
   &__color-item{
     display: grid;
     flex-wrap: wrap;
     overflow: hidden;
-    width: 350px;
+    width: 250px;
     height: 207.65px;
   }
   &__color-img {
-    width: 150px; /* Задание фиксированной ширины */
-    height: 150px; /* Задание фиксированной высоты */
+    width: 50%; /* Задание фиксированной ширины */
+    height: 100%; /* Задание фиксированной высоты */
     object-fit: cover; /* Масштабирование изображения без искажений */
     border-radius: 10px;
+    align-self: end;
+    justify-self: center;
   }
   &__subtitle {
     font-family: Montserrat, sans-serif;
@@ -73,5 +94,4 @@
     overflow: hidden;
     text-overflow: ellipsis; /* Добавляем троеточие в конце текста */
   }
-
 }

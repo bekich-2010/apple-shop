@@ -400,29 +400,36 @@
       "price": 3500,
       "material": "Натуральная кожа",
       "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 11,
-          "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg"
-        },
-        {
-          "color": "Белый",
-          "id": 12,
-          "img": "https://fotomix.by/image/cache/catalog/photo/product-photo/Apple/apple-access/magsafe-silicone-case/12-12mini/silicone-12-12mini-white-05-600x600.jpg"
-        },
-        {
-          "color": "Красный",
-          "id": 13,
-          "img": "https://www.istore.ua/upload/iblock/fd9/leather_mag_safe_for_iphone_12_pro_max_red_1_.jpg"
-        },
-        {
-          "color": "Синий",
-          "id": 14,
-          "img": "https://avatars.mds.yandex.net/i?id=8522b4e10bd4fa76e4e036781b89d8650e1e4756-5477018-images-thumbs&n=13"
-        }
-      ],
-      "id": 13
+      "color": "Черный",
+      "id": 11,
+      "img": "https://technolove.ru/upload/iblock/4d1/magsafe_kojablack.jpg"
+    },
+    {
+      "title": "iPhone 12",
+      "price": 3500,
+      "material": "Натуральная кожа",
+      "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
+      "color": "Белый",
+      "id": 12,
+      "img": "https://fotomix.by/image/cache/catalog/photo/product-photo/Apple/apple-access/magsafe-silicone-case/12-12mini/silicone-12-12mini-white-05-600x600.jpg"
+    },
+    {
+      "title": "iPhone 12",
+      "price": 3500,
+      "material": "Натуральная кожа",
+      "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
+      "color": "Красный",
+      "id": 13,
+      "img": "https://www.istore.ua/upload/iblock/fd9/leather_mag_safe_for_iphone_12_pro_max_red_1_.jpg"
+    },
+    {
+      "title": "iPhone 12",
+      "price": 3500,
+      "material": "Натуральная кожа",
+      "description": "Элегантный и стильный чехол, изготовленный из качественной кожи, который защищает ваш iPhone от царапин и повреждений. Имеет точные вырезы для кнопок и портов.",
+      "color": "Синий",
+      "id": 14,
+      "img": "https://avatars.mds.yandex.net/i?id=8522b4e10bd4fa76e4e036781b89d8650e1e4756-5477018-images-thumbs&n=13"
     },
     {
       "title": "iPhone 12 Pro",
@@ -718,348 +725,432 @@
       "price": 2399,
       "material": "Силикон",
       "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 54,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2665_0_1.jpg"
-        },
-        {
+      "color": "Черный",
+      "id": 54,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2665_0_1.jpg"
+    },
+    {
+          "title": "iPhone 12",
+          "price": 2399,
+          "material": "Силикон",
+          "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
           "color": "Белый",
           "id": 55,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKa1dU4SsOJUgfAGrm8Xj9YecpFf7gCToXxg&s"
         },
-        {
+    {
+          "title": "iPhone 12",
+          "price": 2399,
+          "material": "Силикон",
+          "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
           "color": "Красный",
           "id": 56,
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fmfRW61pWu-zWz5HURT4H7B-Fjp1LVRrSQ&s"
         },
-        {
+    {
+          "title": "iPhone 12",
+          "price": 2399,
+          "material": "Силикон",
+          "description": "Мягкий и защитный силиконовый чехол, который удобно лежит в руке.",
           "color": "Синий",
           "id": 57,
           "img": "https://technolove.ru/upload/iblock/043/chehol_12pro_blue_.3.jpg"
-        }
-      ],
-      "id": 25
+        },
+    {
+      "title": "iPhone 12 Pro",
+      "price": 2799,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
+      "color": "Черный",
+      "id": 58,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2681_0_1.jpg"
     },
     {
       "title": "iPhone 12 Pro",
       "price": 2799,
       "material": "Силикон",
       "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 58,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2681_0_1.jpg"
-        },
-        {
-          "color": "Белый",
-          "id": 59,
-          "img": "https://content.rozetka.com.ua/goods/images/big_tile/424104643.jpg"
-        },
-        {
-          "color": "Желтый",
-          "id": 60,
-          "img": "https://iloveapple.com.ua/2294-large_default/silikonovyj-chekhol-dlya-iphone-12-pro-ma-silicone-case-mellow-yellow.jpg"
-        },
-        {
-          "color": "Синий",
-          "id": 61,
-          "img": "https://akstel.ru/upload/ammina.optimizer/jpeg-webp/q80/upload/iblock/mhu/mhuhvpepv9f647xl1pnou813t5dqojyt.webp"
-        }
-      ],
-      "id": 26
+      "color": "Белый",
+      "id": 59,
+      "img": "https://content.rozetka.com.ua/goods/images/big_tile/424104643.jpg"
+    },
+    {
+      "title": "iPhone 12 Pro",
+      "price": 2799,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
+      "color": "Желтый",
+      "id": 60,
+      "img": "https://iloveapple.com.ua/2294-large_default/silikonovyj-chekhol-dlya-iphone-12-pro-ma-silicone-case-mellow-yellow.jpg"
+    },
+    {
+      "title": "iPhone 12 Pro",
+      "price": 2799,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который идеально защищает iPhone 12 Pro.",
+      "color": "Синий",
+      "id": 61,
+      "img": "https://akstel.ru/upload/ammina.optimizer/jpeg-webp/q80/upload/iblock/mhu/mhuhvpepv9f647xl1pnou813t5dqojyt.webp"
     },
     {
       "title": "iPhone 12 Mini",
       "price": 2199,
       "material": "Силикон",
       "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 62,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm63nDPjYXuzmpPoxXTCZ2LIX1dzf7l2F4AuBv-DYk9cYkzKnoALM-4rO7CddLmJgKoy0&usqp=CAU"
-        },
-        {
-          "color": "Белый",
-          "id": 63,
-          "img": "https://hi-stores.ru/upload/iblock/dac/daca9e72e3044afc7c140e50964b1e2b.jpg"
-        },
-        {
-          "color": "Красный",
-          "id": 64,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2664_1_6.png"
-        },
-        {
-          "color": "Синий",
-          "id": 65,
-          "img": "https://hi-stores.ru/upload/iblock/d68/d68197d3b5cd4eb2a713bd4f47f80e09.jpg"
-        }
-      ],
-      "id": 27
+      "color": "Черный",
+      "id": 62,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm63nDPjYXuzmpPoxXTCZ2LIX1dzf7l2F4AuBv-DYk9cYkzKnoALM-4rO7CddLmJgKoy0&usqp=CAU"
+    },
+    {
+      "title": "iPhone 12 Mini",
+      "price": 2199,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
+      "color": "Белый",
+      "id": 63,
+      "img": "https://hi-stores.ru/upload/iblock/dac/daca9e72e3044afc7c140e50964b1e2b.jpg"
+    },
+    {
+      "title": "iPhone 12 Mini",
+      "price": 2199,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
+      "color": "Красный",
+      "id": 64,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2664_1_6.png"
+    },
+    {
+      "title": "iPhone 12 Mini",
+      "price": 2199,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий надежную защиту.",
+      "color": "Синий",
+      "id": 65,
+      "img": "https://hi-stores.ru/upload/iblock/d68/d68197d3b5cd4eb2a713bd4f47f80e09.jpg"
+    },
+    {
+      "color": "Черный",
+      "id": 66,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2796_4_6.png",
+      "title": "iPhone 13",
+      "price": 2699,
+      "material": "Силикон",
+      "description": "Защитный силиконовый чехол с мягкой текстурой."
+    },
+    {
+      "color": "Белый",
+      "id": 67,
+      "img": "https://storex24.ru/uploads/product/5100/5175/photo1667176904.jpeg",
+      "title": "iPhone 13",
+      "price": 2699,
+      "material": "Силикон",
+      "description": "Защитный силиконовый чехол с мягкой текстурой."
     },
     {
       "title": "iPhone 13",
       "price": 2699,
       "material": "Силикон",
       "description": "Защитный силиконовый чехол с мягкой текстурой.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 66,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2796_4_6.png"
-        },
-        {
-          "color": "Белый",
-          "id": 67,
-          "img": "https://storex24.ru/uploads/product/5100/5175/photo1667176904.jpeg"
-        },
-        {
-          "color": "Красный",
-          "id": 68,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEMgREkrABMMuHZSSypBHSnMlQxoQeRWpdQ&s  "
-        },
-        {
-          "color": "Синий",
-          "id": 69,
-          "img": "https://basket-13.wbbasket.ru/vol2031/part203161/203161277/images/big/1.webp"
-        }
-      ],
-      "id": 28
+      "color": "Красный",
+      "id": 68,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEMgREkrABMMuHZSSypBHSnMlQxoQeRWpdQ&s  "
+    },
+    {
+      "title": "iPhone 13",
+      "price": 2699,
+      "material": "Силикон",
+      "description": "Защитный силиконовый чехол с мягкой текстурой.",
+      "color": "Синий",
+      "id": 69,
+      "img": "https://basket-13.wbbasket.ru/vol2031/part203161/203161277/images/big/1.webp"
+    },
+    {
+      "color": "Черный",
+      "id": 70,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2798_0_6.png",
+      "title": "iPhone 13 Pro",
+      "price": 3299,
+      "material": "Силикон",
+      "description": "Силиконовый чехол с приятной текстурой и надежной защитой."
+    },
+    {
+      "color": "Белый",
+      "title": "iPhone 13 Pro",
+      "price": 3299,
+      "material": "Силикон",
+      "description": "Силиконовый чехол с приятной текстурой и надежной защитой.",
+      "id": 71,
+      "img": "https://www.kssshop.com/cdn/shop/files/white_b95e2e55-4734-4ed4-9b7e-b726b5ee9ddc.jpg?v=1722352628&width=2048"
     },
     {
       "title": "iPhone 13 Pro",
       "price": 3299,
       "material": "Силикон",
       "description": "Силиконовый чехол с приятной текстурой и надежной защитой.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 70,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2798_0_6.png"
-        },
-        {
-          "color": "Белый",
-          "id": 71,
-          "img": "https://www.kssshop.com/cdn/shop/files/white_b95e2e55-4734-4ed4-9b7e-b726b5ee9ddc.jpg?v=1722352628&width=2048"
-        },
-        {
-          "color": "Красный",
-          "id": 72,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeEi2ND7-gXh6rEgzjcZtKZtkqzWOPiwgfEQ&s"
-        },
-        {
-          "color": "Синий",
-          "id": 73,
-          "img": "https://iloveapple.com.ua/2476-large_default/silikonovyj-chekhol-dlya-iphone-13-pro-max-silicone-case-cloud-blue.jpg"
-        }
-      ],
-      "id": 29
+      "color": "Красный",
+      "id": 72,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeEi2ND7-gXh6rEgzjcZtKZtkqzWOPiwgfEQ&s"
+    },
+    {
+      "title": "iPhone 13 Pro",
+      "price": 3299,
+      "material": "Силикон",
+      "description": "Силиконовый чехол с приятной текстурой и надежной защитой.",
+      "color": "Синий",
+      "id": 73,
+      "img": "https://iloveapple.com.ua/2476-large_default/silikonovyj-chekhol-dlya-iphone-13-pro-max-silicone-case-cloud-blue.jpg"
     },
     {
       "title": "iPhone 13 Mini",
       "price": 2249,
       "material": "Силикон",
       "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 74,
-          "img": "https://yabloki.ua/media/cache/sylius_shop_product_original/07/ee/chehol-silicone-case-with-magsafe-dlja-iphone-13-mini-midnight-mm223-1.png.webp"
-        },
-        {
-          "color": "Белый",
-          "id": 75,
-          "img": "https://tension.com.ua/image/catalog/data/products/case/iphone/oem/iphone_13/silicone_case/white.jpg"
-        },
-        {
-          "color": "Красный",
-          "id": 76,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjy0BTPzbeMCl3i_RyDSXDq7Tg7JJMoAhSg&s"
-        },
-        {
-          "color": "Синий",
-          "id": 77,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2848_2_6.png"
-        }
-      ],
-      "id": 30
+      "color": "Черный",
+      "id": 74,
+      "img": "https://yabloki.ua/media/cache/sylius_shop_product_original/07/ee/chehol-silicone-case-with-magsafe-dlja-iphone-13-mini-midnight-mm223-1.png.webp"
     },
     {
+      "title": "iPhone 13 Mini",
+      "price": 2249,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
+      "color": "Белый",
+      "id": 75,
+      "img": "https://tension.com.ua/image/catalog/data/products/case/iphone/oem/iphone_13/silicone_case/white.jpg"
+    },
+    {
+      "title": "iPhone 13 Mini",
+      "price": 2249,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
+      "color": "Красный",
+      "id": 76,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjy0BTPzbeMCl3i_RyDSXDq7Tg7JJMoAhSg&s"
+    },
+    {
+      "title": "iPhone 13 Mini",
+      "price": 2249,
+      "material": "Силикон",
+      "description": "Мягкий силиконовый чехол, обеспечивающий защиту и комфорт.",
+      "color": "Синий",
+      "id": 77,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2848_2_6.png"
+    },
+    {
+      "color": "Черный",
+      "id": 78,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGjbw7kejLkzCHR4mjs4g-MTiCa1I6TirzA&s",
+      "title": "iPhone 14",
+      "price": 3199,
+      "material": "Силикон",
+      "description": "Прочный силиконовый чехол с защитой от падений."
+    },
+    {
+      "color": "Белый",
+      "id": 79,
+      "img": "https://i-store.net/_sh/60/6036.jpg",
+      "title": "iPhone 14",
+      "price": 3199,
+      "material": "Силикон",
+      "description": "Прочный силиконовый чехол с защитой от падений."
+    },
+    {
+      "color": "Красный",
+      "id": 80,
+      "img": "https://basket-14.wbbasket.ru/vol2146/part214606/214606596/images/big/1.webp",
+      "title": "iPhone 14",
+      "price": 3199,
+      "material": "Силикон",
+      "description": "Прочный силиконовый чехол с защитой от падений."
+    },
+    {
+      "color": "Синий",
       "title": "iPhone 14",
       "price": 3199,
       "material": "Силикон",
       "description": "Прочный силиконовый чехол с защитой от падений.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 78,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGjbw7kejLkzCHR4mjs4g-MTiCa1I6TirzA&s"
-        },
-        {
-          "color": "Белый",
-          "id": 79,
-          "img": "https://i-store.net/_sh/60/6036.jpg"
-        },
-        {
-          "color": "Красный",
-          "id": 80,
-          "img": "https://basket-14.wbbasket.ru/vol2146/part214606/214606596/images/big/1.webp"
-        },
-        {
-          "color": "Синий",
-          "id": 81,
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPRV3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1676921314479"
-        }
-      ],
-      "id": 31
+      "id": 81,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPRV3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1676921314479"
+    },
+    {
+      "color": "Черный",
+      "id": 82,
+      "title": "iPhone 14 Pro",
+      "price": 3999,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_3891_4_6.png"
+    },
+    {
+      "color": "Белый",
+      "title": "iPhone 14 Pro",
+      "price": 3999,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
+      "id": 83,
+      "img": "https://chekhol.com.ua/media/shop/ea/d3/product-Liquid-Silicone-Phone-Case-For-iPhone-14-Pro-Max-White-_ead3baee29a515febe67ef7b0fac3b77.jpg"
     },
     {
       "title": "iPhone 14 Pro",
       "price": 3999,
       "material": "Силикон",
       "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 82,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_3891_4_6.png"
-        },
-        {
-          "color": "Белый",
-          "id": 83,
-          "img": "https://chekhol.com.ua/media/shop/ea/d3/product-Liquid-Silicone-Phone-Case-For-iPhone-14-Pro-Max-White-_ead3baee29a515febe67ef7b0fac3b77.jpg"
-        },
-        {
-          "color": "Красный",
-          "id": 84,
-          "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_3901_0_1.jpg"
-        },
-        {
-          "color": "Синий",
-          "id": 85,
-          "img": "https://basket-13.wbbasket.ru/vol2021/part202120/202120504/images/big/1.webp"
-        }
-      ],
-      "id": 32
+      "color": "Красный",
+      "id": 84,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_81_3901_0_1.jpg"
     },
     {
+      "color": "Синий",
+      "id": 85,
+      "title": "iPhone 14 Pro",
+      "price": 3999,
+      "material": "Силикон",
+      "description": "Силиконовый чехол, который обеспечивает надежную защиту и стильный внешний вид.",
+      "img": "https://basket-13.wbbasket.ru/vol2021/part202120/202120504/images/big/1.webp"
+    },
+    {
+      "color": "Черный",
+      "id": 86,
       "title": "iPhone 15",
       "price": 3799,
       "material": "Силикон",
       "description": "Современный силиконовый чехол с защитой от загрязнений.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 86,
-          "img": "https://asiastore.kg/image/cache/catalog/1newpage/apple/accessories/applecase/iphonecase/15%2B/sillicone/silbl-450x450.jpg"
-        },
-        {
-          "color": "Белый",
-          "id": 87,
-          "img": "https://www.otofly.co/cdn/shop/files/iphone-15-silicone-case-white.jpg?v=1692353885&width=600"
-        },
-        {
-          "color": "Красный",
-          "id": 88,
-          "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/6935630067.jpg"
-        },
-        {
-          "color": "Синий",
-          "id": 89,
-          "img": "https://asiastore.kg/image/cachewebp/catalog/1newpage/apple/accessories/applecase/iphonecase/15%2B/sillicone/silsb1-1200x1200.webp"
-        }
-      ],
-      "id": 33
+      "img": "https://asiastore.kg/image/cache/catalog/1newpage/apple/accessories/applecase/iphonecase/15%2B/sillicone/silbl-450x450.jpg"
+    },
+    {
+      "color": "Белый",
+      "id": 87,
+      "title": "iPhone 15",
+      "price": 3799,
+      "material": "Силикон",
+      "description": "Современный силиконовый чехол с защитой от загрязнений.",
+      "img": "https://www.otofly.co/cdn/shop/files/iphone-15-silicone-case-white.jpg?v=1692353885&width=600"
+    },
+    {
+      "color": "Красный",
+      "id": 88,
+      "title": "iPhone 15",
+      "price": 3799,
+      "material": "Силикон",
+      "description": "Современный силиконовый чехол с защитой от загрязнений.",
+      "img": "https://ir.ozone.ru/s3/multimedia-1-r/wc1000/6935630067.jpg"
+    },
+    {
+      "color": "Синий",
+      "id": 89,
+      "title": "iPhone 15",
+      "price": 3799,
+      "material": "Силикон",
+      "description": "Современный силиконовый чехол с защитой от загрязнений.",
+      "img": "https://asiastore.kg/image/cachewebp/catalog/1newpage/apple/accessories/applecase/iphonecase/15%2B/sillicone/silsb1-1200x1200.webp"
     },
     {
       "title": "iPhone 15 Pro",
       "price": 4599,
       "material": "Силикон",
       "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 90,
-          "img": "https://apple11.ru/33676/silikonovyj-chekhol-dlya-iphone-15-pro-max-chernyj.jpg"
-        },
-        {
-          "color": "Белый",
-          "id": 91,
-          "img": "https://www.otofly.co/cdn/shop/files/iphone-15-pro-silicone-case-white.jpg?v=1692357757&width=600"
-        },
-        {
-          "color": "Красный",
-          "id": 92,
-          "img": "https://www.otofly.co/cdn/shop/files/iphone-15-pro-silicone-case-red.jpg?v=1692357757&width=600"
-        },
-        {
-          "color": "Синий",
-          "id": 93,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4EJCZvT85tx0OpoJsv9lIRBZ9rDFt_rA6w&s"
-        }
-      ],
-      "id": 34
+      "color": "Черный",
+      "id": 90,
+      "img": "https://apple11.ru/33676/silikonovyj-chekhol-dlya-iphone-15-pro-max-chernyj.jpg"
     },
     {
+      "color": "Белый",
+      "title": "iPhone 15 Pro",
+      "price": 4599,
+      "material": "Силикон",
+      "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
+      "id": 91,
+      "img": "https://www.otofly.co/cdn/shop/files/iphone-15-pro-silicone-case-white.jpg?v=1692357757&width=600"
+    },
+    {
+      "color": "Красный",
+      "id": 92,
+      "title": "iPhone 15 Pro",
+      "price": 4599,
+      "material": "Силикон",
+      "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
+      "img": "https://www.otofly.co/cdn/shop/files/iphone-15-pro-silicone-case-red.jpg?v=1692357757&width=600"
+    },
+    {
+      "color": "Синий",
+      "id": 93,
+      "title": "iPhone 15 Pro",
+      "price": 4599,
+      "material": "Силикон",
+      "description": "Премиум силиконовый чехол с отличной защитой и элегантным дизайном.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4EJCZvT85tx0OpoJsv9lIRBZ9rDFt_rA6w&s"
+    },
+    {
+      "color": "Черный",
       "title": "iPhone 16",
       "price": 4299,
       "material": "Силикон",
       "description": "Идеальный силиконовый чехол, сочетающий стиль и защиту.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 94,
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MYY13?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1723236649260"
-        },
-        {
-          "color": "Белый",
-          "id": 95,
-          "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-cream-1.webp?v=1724997531&width=800"
-        },
-        {
-          "color": "Красный",
-          "id": 96,
-          "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-red-1.webp?v=1724997531&width=800"
-        },
-        {
-          "color": "Синий",
-          "id": 97,
-          "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-classic-blue-1.webp?v=1724997531&width=800"
-        }
-      ],
-      "id": 35
+      "id": 94,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MYY13?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1723236649260"
+    },
+    {
+      "color": "Белый",
+      "id": 95,
+      "title": "iPhone 16",
+      "price": 4299,
+      "material": "Силикон",
+      "description": "Идеальный силиконовый чехол, сочетающий стиль и защиту.",
+      "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-cream-1.webp?v=1724997531&width=800"
+    },
+    {
+      "color": "Красный",
+      "id": 96,
+      "title": "iPhone 16",
+      "price": 4299,
+      "material": "Силикон",
+      "description": "Идеальный силиконовый чехол, сочетающий стиль и защиту.",
+      "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-red-1.webp?v=1724997531&width=800"
+    },
+    {
+      "color": "Синий",
+      "id": 97,
+      "title": "iPhone 16",
+      "price": 4299,
+      "material": "Силикон",
+      "description": "Идеальный силиконовый чехол, сочетающий стиль и защиту.",
+      "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-silicone-case-with-MagSafe-classic-blue-1.webp?v=1724997531&width=800"
     },
     {
       "title": "iPhone 16 Pro",
       "price": 5299,
       "material": "Силикон",
       "description": "Наиболее мощный силиконовый чехол с отличной защитой для iPhone 16 Pro.",
-      "colors": [
-        {
-          "color": "Черный",
-          "id": 98,
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MYYJ3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1723593620269"
-        },
-        {
-          "color": "Белый",
-          "id": 99,
-          "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-Pro-Max-silicone-case-with-MagSafe-cream-1.webp?v=1724997058&width=800"
-        },
-        {
-          "color": "Золотой",
-          "id": 100,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0bH4JqTLTPRrLJSMBuXAgCNDr0KJae9lQw&s"
-        },
-        {
-          "color": "Синий",
-          "id": 101,
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUlHgssUm3kU3gNgx84e7y33leGR7aZCzuQ&s"
-        }
-      ],
-      "id": 36
+      "color": "Черный",
+      "id": 98,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MYYJ3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1723593620269"
+    },
+    {
+      "color": "Белый",
+      "title": "iPhone 16 Pro",
+      "price": 5299,
+      "material": "Силикон",
+      "description": "Наиболее мощный силиконовый чехол с отличной защитой для iPhone 16 Pro.",
+      "id": 99,
+      "img": "https://www.otofly.co/cdn/shop/files/iPhone-16-Pro-Max-silicone-case-with-MagSafe-cream-1.webp?v=1724997058&width=800"
+    },
+    {
+      "color": "Золотой",
+      "title": "iPhone 16 Pro",
+      "price": 5299,
+      "material": "Силикон",
+      "description": "Наиболее мощный силиконовый чехол с отличной защитой для iPhone 16 Pro.",
+      "id": 100,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0bH4JqTLTPRrLJSMBuXAgCNDr0KJae9lQw&s"
+    },
+    {
+      "color": "Синий",
+      "title": "iPhone 16 Pro",
+      "price": 5299,
+      "material": "Силикон",
+      "description": "Наиболее мощный силиконовый чехол с отличной защитой для iPhone 16 Pro.",
+      "id": 101,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUlHgssUm3kU3gNgx84e7y33leGR7aZCzuQ&s"
     }
   ],
   "Glass_cases": [
